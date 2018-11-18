@@ -1,0 +1,1964 @@
+<?xml version = "1.0"?>
+<?xml-stylesheet type = "text/xsl" href = "xsl/jats-to-html.xsl"?>
+<article article-type="research-article">
+    <front>
+        <title-meta>
+            <title-doi title-doi-type="publisher-doi">BHDA</title-doi>
+            <title-doi title-doi-type="sage">BHD</title-doi>
+            <title-title-group>
+                <title-title>Behavioral Disorders</title-title>
+            </title-title-group>
+            <issn pub-type="ppub">0198-7429</issn>
+            <issn pub-type="epub">2163-5307</issn>
+            <publisher>
+                <publisher-name>SAGE Publications</publisher-name>
+                <publisher-loc>Sage CA: Los Angeles, CA</publisher-loc>
+            </publisher>
+        </title-meta>
+        <article-meta>
+            <article-doi pub-doi-type="doi">10.1177/0198742916688653</article-doi>
+            <article-doi pub-doi-type="publisher-doi">10.1177_0198742916688653</article-doi>
+            <article-categories>
+                <subj-group subj-group-type="heading">
+                    <subject>Articles</subject>
+                </subj-group>
+            </article-categories>
+            <title-group>
+                <article-title>Quality Indicators for Systematic Reviews in Behavioral Disorders</article-title>
+            </title-group>
+            <contrib-group>
+                <contrib contrib-type="author">
+                    <string-name>
+                        <given-names>Daniel M.</given-names>
+                        <surname>Maggin</surname>
+                    </string-name>
+                    <x>,</x>
+                    <degrees>PhD</degrees>
+                    <xref ref-type="aff" rid="aff1-0198742916688653">
+                        <sup>1</sup>
+                    </xref>
+                    <xref ref-type="corresp" rid="corresp1-0198742916688653"/>
+                </contrib>
+                <x>,</x>
+                <contrib contrib-type="author">
+                    <string-name>
+                        <given-names>Elizabeth</given-names>
+                        <surname>Talbott</surname>
+                    </string-name>
+                    <x>,</x>
+                    <degrees>PhD</degrees>
+                    <xref ref-type="aff" rid="aff1-0198742916688653">
+                        <sup>1</sup>
+                    </xref>
+                </contrib>
+                <x>,</x>
+                <contrib contrib-type="author">
+                    <string-name>
+                        <given-names>Eryn Y.</given-names>
+                        <surname>Van Acker</surname>
+                    </string-name>
+                    <x>,</x>
+                    <degrees>MA</degrees>
+                    <xref ref-type="aff" rid="aff1-0198742916688653">
+                        <sup>1</sup>
+                    </xref>
+                </contrib>
+                <x>,</x>
+                <contrib contrib-type="author">
+                    <string-name>
+                        <given-names>Skip</given-names>
+                        <surname>Kumm</surname>
+                    </string-name>
+                    <x>,</x>
+                    <degrees>MA</degrees>
+                    <xref ref-type="aff" rid="aff1-0198742916688653">
+                        <sup>1</sup>
+                    </xref>
+                </contrib>
+            </contrib-group>
+            <aff doi="aff1-0198742916688653">
+                <label>
+                    <sup>1</sup>
+                </label>
+                The University of Illinois at Chicago, USA
+            </aff>
+            <author-notes>
+                <corresp doi="corresp1-0198742916688653">Daniel M. Maggin, The University of Illinois at Chicago, 3424
+                    ETMSW, 1040 W Harrison Street, Chicago, IL 60607, USA. Email:
+                    <email>dmaggin@uic.edu</email>
+                </corresp>
+            </author-notes>
+            <pub-date pub-type="epub-ppub">
+                <month>2</month>
+                <year>2017</year>
+            </pub-date>
+            <volume>42</volume>
+            <issue>2</issue>
+            <fpage>52</fpage>
+            <lpage>64</lpage>
+            <permissions>
+                <copyright-statement>© Hammill Institute on Disabilities 2017</copyright-statement>
+                <copyright-year>2017</copyright-year>
+                <copyright-holder content-type="society">Hammill Institute on Disabilities. All rights reserved
+                </copyright-holder>
+            </permissions>
+            <self-uri content-type="pdf" href="0198742916688653.pdf"/>
+            <abstract>
+                <p>Special education researchers, practitioners, and policy makers continue to work toward developing
+                    and implementing empirically supported practices and policies to address the academic, social, and
+                    postschool challenges confronting students with emotional and behavioral disorders. The systematic
+                    review has become an essential vehicle for compiling and disseminating research findings on an array
+                    of topics. Given the importance and impact of these research summaries, it is instructive to take
+                    stock of the extent to which reviews in our field adhere to current standards. Drawing from a number
+                    of sources in the social and behavioral sciences, we propose and describe a series of quality
+                    indicators for systematic reviews. We applied these indicators to systematic reviews published in <italic>
+                        Behavioral Disorders
+                    </italic> between 2005 and 2016 with the broader goal of identifying areas of methodological
+                    strength and areas for improvement. Results indicate that the sample of systematic reviews
+                    demonstrated particular strength in several procedural domains such as the specification of
+                    inclusion criteria, identifying the electronic databases used for the search, and describing the
+                    plan for data analysis. We also identified a number of areas to which researchers might devote
+                    greater attention to increase the rigor of systematic reviews in the field. Findings are
+                    contextualized within the importance of research transparency and reporting to improve practice and
+                    policy.
+                </p>
+            </abstract>
+            <kwd-group>
+                <kwd>emotional and behavioral disorders</kwd>
+                <x>,</x>
+                <kwd>quality indicators</kwd>
+                <x>,</x>
+                <kwd>meta-analysis</kwd>
+                <x>,</x>
+                <kwd>systematic review</kwd>
+            </kwd-group>
+        </article-meta>
+    </front>
+    <body>
+        <p>The development, identification, and dissemination of evidence-based intervention and assessment strategies
+            have been a dominant theme within education for more than a decade (<xref ref-type="bibr"
+                                                                                      rid="bibr24-0198742916688653">
+                Shavelson &amp; Towne, 2002</xref>). Following the logic of evidence-based practice, rigorous research
+            methods are used to determine which strategies are most likely to produce the desired outcomes (<xref
+                    ref-type="bibr" rid="bibr12-0198742916688653">Gersten et al., 2005</xref>). A critical aspect of the
+            identification of evidence-based educational methods is to reliably summarize the research on a given topic
+            to assess the methodological strength and consistency of findings to draw meaningful conclusions. As such,
+            the systematic review has gained increased attention for its emphasis on providing transparent assessments
+            of research (<xref ref-type="bibr" rid="bibr8-0198742916688653">Cook, Tankersley, &amp; Landrum, 2009</xref>).
+            Given the variety of academic, social, and postschool challenges confronting students with emotional and
+            behavioral disorders (EBD), systematic research reviews can have significant implications and reach for
+            guiding the adoption and implementation of various educational practices and policies for this particularly
+            vulnerable population of students. For instance, the results of systematic reviews can be used by
+            practitioners to select intervention methods, policy makers to weigh the costs and benefits of adopting
+            particular strategies, researchers to identify the strengths and weaknesses within a body of research to
+            assist with planning their next study, grant funders to determine issues that are in need of additional
+            attention and resources, and the developers of standards to detect promising strategies and practices (<xref
+                    ref-type="bibr" rid="bibr25-0198742916688653">Talbott, Maggin, Van Acker, &amp; Kumm, in
+                press</xref>). The strength of systematic reviews derives from the articulation of a clear, transparent,
+            replicable methodology that increases the likelihood of drawing objective conclusions from the research
+            being reviewed. As such, the systematic review has become an essential tool within the development and
+            dissemination of empirically supported practices and policies for students with EBD (<xref ref-type="bibr"
+                                                                                                       rid="bibr18-0198742916688653">
+                Maggin &amp; Chafouleas, 2013</xref>).
+        </p>
+        <p>Despite the importance of systematic reviews for understanding and addressing an array of complex issues for
+            students with EBD, field-specific guidance for researchers or practitioners on this research methodology is
+            currently unavailable. The purpose of this article, therefore, is to follow the lead of previous efforts in
+            the field to establish guidelines and provide an overview of common quality indicators for conducting
+            systematic reviews (<xref ref-type="bibr" rid="bibr23-0198742916688653">Odom et al., 2005</xref>). In the
+            following sections, we define systematic reviews in relation to other types of literature reviews, describe
+            common quality indicators for systematic reviews, and provide a conceptual discussion of the reasons these
+            standards are important. We then apply these indicators to systematic reviews published in <italic>
+                Behavioral Disorders
+            </italic> from 2005 to 2016 to identify areas of methodological strength and areas for improvement in recent
+            reviews in the field. The article concludes with recommendations for improving the overall quality of
+            systematic reviews in our discipline, to ensure that the most valid information is disseminated for students
+            with EBD who have among the most unique and complex needs in special education (<xref ref-type="bibr"
+                                                                                                  rid="bibr19-0198742916688653">
+                Maggin, Wehby, Farmer, &amp; Brooks, 2016</xref>).
+        </p>
+        <sec doi="section1-0198742916688653">
+            <title>Defining Systematic Reviews</title>
+            <p>A systematic review is the attempt to systematically collate all empirical evidence that meets a set of
+                specific eligibility criteria with the purpose of answering a particular research question (<xref
+                        ref-type="bibr" rid="bibr16-0198742916688653">Lipsey &amp; Wilson, 2001</xref>). As such, these
+                research syntheses require the development of clearly articulated procedures that are selected to
+                minimize subjectivity and maximize transparency, which increase the likelihood of providing reliable
+                findings from which objective conclusions can be drawn to support decision making for policy and
+                practice (<xref ref-type="bibr" rid="bibr3-0198742916688653">Borenstein, Hedges, Higgins, &amp;
+                    Rothstein, 2009</xref>). It is essential not only to define systematic reviews but also to
+                distinguish them from other types of literature reviews used in our field. For instance, systematic
+                reviews are fundamentally different from narrative reviews and position papers in that researchers
+                describe and use a replicable, transparent set of procedures to search, include, and review the research
+                on a given topic. In contrast, narrative reviews typically do not provide details on how particular
+                decisions are made regarding the relevance and consideration of the included studies (<xref
+                        ref-type="bibr" rid="bibr2-0198742916688653">Baumeister &amp; Leary, 1997</xref>). This is not
+                to discount the importance of narrative reviews; in fact, narrative reviews can often be a means for
+                disseminating powerful scholarship and perspective. Another type of review that is common in our field,
+                and one that is closely related to systematic reviews, is the meta-analysis. There is often confusion,
+                however, regarding the differences between a meta-analysis and a systematic review. Meta-analysis refers
+                explicitly to the use of statistical methods to summarize and combine the results of independent
+                research studies (<xref ref-type="bibr" rid="bibr9-0198742916688653">Cooper, Hedges, &amp; Valentine,
+                    2009</xref>). As such, a systematic review does not require the use of meta-analytic techniques
+                although the validity of findings from a meta-analysis is directly related to the quality of the
+                systematic review procedures used to reduce bias (<xref ref-type="bibr" rid="bibr16-0198742916688653">
+                    Lipsey &amp; Wilson, 2001</xref>).
+            </p>
+        </sec>
+        <sec doi="section2-0198742916688653">
+            <title>Guidelines for Systematic Reviews</title>
+            <p>Part of the motivation for the current article is to provide researchers and research consumers with a
+                set of guidelines to use when conducting and reviewing systematic reviews. These efforts are similar to
+                the development of indicators for primary research proposed by our esteemed colleagues in special
+                education more than a decade ago (<xref ref-type="bibr" rid="bibr23-0198742916688653">Odom et al.,
+                    2005</xref>). The purpose of those methodological guidelines, as with those proffered here, was to
+                encourage the use of strong research methods to ensure the most valid information is obtained and
+                disseminated. It is important to note that the development of quality indicators has not been isolated
+                to the execution of primary research studies in the field of special education. In fact, there have been
+                several efforts to establish guidelines for conducting systematic reviews in other areas of the social
+                and behavioral sciences (e.g., <xref ref-type="bibr" rid="bibr1-0198742916688653">American Psychological
+                    Association [APA], 2010</xref>; <xref ref-type="bibr" rid="bibr14-0198742916688653">Higgins &amp;
+                    Green, 2011</xref>; <xref ref-type="bibr" rid="bibr22-0198742916688653">Moher et al., 2015</xref>).
+                These endeavors have led to the development of a set of widely accepted standards on the processes and
+                procedures for conducting a rigorous systematic review. In the current article, we synthesize extant
+                guidelines to generate a set of quality indicators for conducting and reporting rigorous systematic
+                reviews in special education generally and in the field of EBD specifically.
+            </p>
+        </sec>
+        <sec doi="section3-0198742916688653">
+            <title>Quality Indicators for Systematic Reviews</title>
+            <p>In the following sections, we provide an overview of the quality indicators for conducting systematic
+                reviews. Each criterion and its operational definition are presented in <xref ref-type="table"
+                                                                                              rid="table1-0198742916688653">
+                    Table 1</xref>.
+            </p>
+            <table-wrap doi="table1-0198742916688653" position="float">
+                <label>Table 1.</label>
+                <caption>
+                    <p>Methodological Quality Indicators for Conducting Systematic Reviews.</p>
+                </caption>
+                <alternatives>
+                    <graphic href="10.1177_0198742916688653-table1.tif"/>
+                    <table>
+                        <colgroup>
+                            <col align="left"/>
+                            <col align="left"/>
+                        </colgroup>
+                        <thead>
+                            <tr>
+                                <th align="left">Methodological Domain</th>
+                                <th align="left">Quality indicator</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr>
+                                <td colspan="2">Research question</td>
+                            </tr>
+                            <tr>
+                                <td> Research question formulation</td>
+                                <td>The research question communicates the objectives and provides boundaries for making
+                                    decisions about which studies to include in the systematic review.
+                                </td>
+                            </tr>
+                            <tr>
+                                <td colspan="2">Eligibility criteria</td>
+                            </tr>
+                            <tr>
+                                <td> Variable characteristics</td>
+                                <td>Operational characteristics of the variables that will be the focus of the review
+                                    are described with examples of key variables such as the interventions, assessments,
+                                    programs, practices, or policies of interest.
+                                </td>
+                            </tr>
+                            <tr>
+                                <td> Participant information</td>
+                                <td>Key participant information is reported including any disability, demographic,
+                                    and/or functional characteristics that define the student population.
+                                </td>
+                            </tr>
+                            <tr>
+                                <td> Research design</td>
+                                <td>The research designs eligible for the review are identified with key methods
+                                    operationalized if necessary.
+                                </td>
+                            </tr>
+                            <tr>
+                                <td> Time period</td>
+                                <td>The time period in which the research had to be published to be eligible was
+                                    identified.
+                                </td>
+                            </tr>
+                            <tr>
+                                <td colspan="2">Search procedures</td>
+                            </tr>
+                            <tr>
+                                <td> Databases identified</td>
+                                <td>The electronic reference databases searched were referenced directly.</td>
+                            </tr>
+                            <tr>
+                                <td> Registries identified</td>
+                                <td>The prospective research registries searched were referenced directly.</td>
+                            </tr>
+                            <tr>
+                                <td> Unpublished sources</td>
+                                <td>The authors reported whether unpublished studies were included in the search.</td>
+                            </tr>
+                            <tr>
+                                <td> Keywords identified</td>
+                                <td>Keywords used to search reference databases and registries were explicitly
+                                    identified.
+                                </td>
+                            </tr>
+                            <tr>
+                                <td> Search date</td>
+                                <td>The date on which the final search was conducted was reported.</td>
+                            </tr>
+                            <tr>
+                                <td> Hand search conducted</td>
+                                <td>The authors reported whether journals were hand searched and, if so, which
+                                    journals.
+                                </td>
+                            </tr>
+                            <tr>
+                                <td> Citation lists review</td>
+                                <td>The authors reported whether citation lists of included studies were reviewed and,
+                                    if so, which studies.
+                                </td>
+                            </tr>
+                            <tr>
+                                <td> Subject matter expert review</td>
+                                <td>The authors reported whether individuals with expertise on the subject matter of the
+                                    review examined the citation list to assist with identifying additional, relevant
+                                    studies.
+                                </td>
+                            </tr>
+                            <tr>
+                                <td> Review articles consulted</td>
+                                <td>The authors reported whether pertinent review articles were reviewed for
+                                    citations.
+                                </td>
+                            </tr>
+                            <tr>
+                                <td> Authors contacted</td>
+                                <td>The authors reported whether authors were contacted to see if other reports were
+                                    available.
+                                </td>
+                            </tr>
+                            <tr>
+                                <td> Language specification</td>
+                                <td>The authors specified the languages of eligible reports and if there were any
+                                    limitations imposed on the language of the report.
+                                </td>
+                            </tr>
+                            <tr>
+                                <td> Titles and abstracts reviewed</td>
+                                <td>The authors reported whether titles and abstracts were used to determine eligibility
+                                    in the study.
+                                </td>
+                            </tr>
+                            <tr>
+                                <td> Searcher qualification</td>
+                                <td>The authors reported the qualifications for those reviewing studies for
+                                    eligibility.
+                                </td>
+                            </tr>
+                            <tr>
+                                <td> Search agreement</td>
+                                <td>The authors reported agreement across those reviewing for study eligibility.</td>
+                            </tr>
+                            <tr>
+                                <td colspan="2">Retrieval procedures</td>
+                            </tr>
+                            <tr>
+                                <td> Total citations return</td>
+                                <td>The authors reported the number of studies identified through the initial data-based
+                                    search (i.e., total returns from search).
+                                </td>
+                            </tr>
+                            <tr>
+                                <td> Total screened out</td>
+                                <td>The authors reported the number of studies excluded during the initial database
+                                    search (i.e., how many relevant studies were there to retrieve from the initial
+                                    number of citations).
+                                </td>
+                            </tr>
+                            <tr>
+                                <td> Total retrieved</td>
+                                <td>The authors reported the number of studies identified as potentially eligible that
+                                    were successfully retrieved for full review.
+                                </td>
+                            </tr>
+                            <tr>
+                                <td> Total excluded</td>
+                                <td>The authors reported the number of studies that were excluded from those after the
+                                    retrieval process due to ineligibility.
+                                </td>
+                            </tr>
+                            <tr>
+                                <td colspan="2">Systematic screening</td>
+                            </tr>
+                            <tr>
+                                <td> Reasons studies excluded</td>
+                                <td>The authors reported the reasons excluded studies were deemed ineligible.</td>
+                            </tr>
+                            <tr>
+                                <td> Total studies included in review</td>
+                                <td>The authors reported the total number of studies that met eligibility criteria and
+                                    were subsequently included in the review.
+                                </td>
+                            </tr>
+                            <tr>
+                                <td> Coder training and expertise</td>
+                                <td>The authors reported the training and expertise of those charged with conducting the
+                                    screening process.
+                                </td>
+                            </tr>
+                            <tr>
+                                <td> Reliability reported</td>
+                                <td>The authors reported the reliability or interobserver agreement statistics used to
+                                    evaluate the consistency of the screening process.
+                                </td>
+                            </tr>
+                            <tr>
+                                <td> Disagreement resolution method</td>
+                                <td>The authors reported the method used to resolve any disagreements among screeners.
+                                </td>
+                            </tr>
+                            <tr>
+                                <td colspan="2">Coding scheme procedures</td>
+                            </tr>
+                            <tr>
+                                <td> Coder expertise</td>
+                                <td>The authors reported the expertise of individuals charged with coding studies.</td>
+                            </tr>
+                            <tr>
+                                <td> Coder training</td>
+                                <td>The authors reported methods for training individuals charged with coding studies.
+                                </td>
+                            </tr>
+                            <tr>
+                                <td> Proportion double coded</td>
+                                <td>The authors reported the number and proportion of studies that were coded by more
+                                    than one independent observer.
+                                </td>
+                            </tr>
+                            <tr>
+                                <td> Reliability reported</td>
+                                <td>The authors reported the reliability or interobserver agreement statistics used to
+                                    evaluate the consistency of the coding.
+                                </td>
+                            </tr>
+                            <tr>
+                                <td> Disagreements resolution method</td>
+                                <td>The authors reported the procedures used to resolve disagreements among coders.</td>
+                            </tr>
+                            <tr>
+                                <td> Response categories reported</td>
+                                <td>The authors reported the response categories available for coders to select from.
+                                </td>
+                            </tr>
+                            <tr>
+                                <td> Missing information process</td>
+                                <td>The authors reported the procedures used to address issues for missing information
+                                    within research studies, such as checking with authors on missing information.
+                                </td>
+                            </tr>
+                            <tr>
+                                <td colspan="2">Coding scheme content</td>
+                            </tr>
+                            <tr>
+                                <td> Participants characteristics</td>
+                                <td>The authors collected data pertaining to participants.</td>
+                            </tr>
+                            <tr>
+                                <td> Key variable features</td>
+                                <td>The authors collected data pertaining to variables under study.</td>
+                            </tr>
+                            <tr>
+                                <td> Methodological quality</td>
+                                <td>The authors collected data pertaining to study quality.</td>
+                            </tr>
+                            <tr>
+                                <td colspan="2">Data analysis plan</td>
+                            </tr>
+                            <tr>
+                                <td> Data analysis plan provided</td>
+                                <td>The authors provide a data analysis plan.</td>
+                            </tr>
+                            <tr>
+                                <td> Coding scheme aggregation specified</td>
+                                <td>The data analysis plan includes the method used to descriptively aggregate the data
+                                    from the coding scheme.
+                                </td>
+                            </tr>
+                            <tr>
+                                <td> Results method described</td>
+                                <td>The data analysis plan includes the method used to synthesize the results reported
+                                    across studies.
+                                </td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </alternatives>
+            </table-wrap>
+            <sec doi="section4-0198742916688653">
+                <title>Research Question</title>
+                <p>As with all types of research, a rigorous systematic review begins with the articulation of the
+                    research question that communicates the primary objectives of the review (<xref ref-type="bibr"
+                                                                                                    rid="bibr9-0198742916688653">
+                        Cooper et al., 2009</xref>). Because systematic reviews can address a wide array of topics and
+                    include a range of research designs, there are few formal criteria for presenting the research
+                    question itself. Recommendations on the development of research questions for systematic reviews,
+                    however, emphasize the need for them to be testable and to include explicit reference to the key
+                    populations, variables, and objectives of the research to be sampled (<xref ref-type="bibr"
+                                                                                                rid="bibr9-0198742916688653">
+                        Cooper et al., 2009</xref>). That is, the research questions should unambiguously refer to the
+                    necessary characteristics of the populations being sampled, primary variables of interest, and
+                    intent of the review. The overarching goal of the research question is to clearly communicate the
+                    population of studies that will be eligible for the review to the readership (Cochrane
+                    Collaboration, 2013). For instance, if the purpose of the review is to determine whether a
+                    particular intervention program has sufficient empirical support to warrant its use for reducing
+                    anxiety experienced by students with EBD, the research question would reference the particular age
+                    and grade levels of interest, the particular name or class of interventions that will be eligible
+                    for the review, and the specific outcome measures considered. Similarly, if the systematic review
+                    will examine the perceptions of students and school personnel on the implementation of a particular
+                    school discipline policy for students with EBD, the review authors might indicate in the research
+                    question that qualitative research literature on this topic will be reviewed in addition to sample
+                    and variable characteristics that establish the boundaries of the studies to be included. Regardless
+                    of the overall purpose of the review, the research question should be constructed so that it serves
+                    as an advanced organizer to the reader and communicates the primary aims of the review and the key
+                    details of the studies to be included.
+                </p>
+            </sec>
+            <sec doi="section5-0198742916688653">
+                <title>Eligibility Criteria</title>
+                <p>Following the development of a research question that provides readers with the critical details and
+                    goals of the review, it is necessary to develop a set of criteria that clearly defines the
+                    population of studies from which the research team will ultimately sample (<xref ref-type="bibr"
+                                                                                                     rid="bibr16-0198742916688653">
+                        Lipsey &amp; Wilson, 2001</xref>). Whereas the research questions are meant to serve as an
+                    advanced organizer for the reader, the eligibility criteria provide the operational characteristics
+                    of the studies that will be included and excluded. The development and reporting of clear
+                    eligibility criteria not only benefits the research team in preparing a transparent and replicable
+                    review but also provides readers with the opportunity to determine whether the universe of eligible
+                    studies was successfully secured. As such, the audience is then in a position to evaluate whether
+                    the research question was adequately addressed and whether the main objectives of the review were
+                    successfully achieved. Put simply, the development and reporting of clear and replicable eligibility
+                    criteria is essential to both planning the research as well as evaluating the overall validity of
+                    the review.
+                </p>
+                <p>The specific details of what should be included in the eligibility criteria will naturally depend on
+                    the purpose of the review. However, most systematic reviews should address information such as (a)
+                    the demographic, emotional, behavioral, and academic information that distinguishes the student
+                    population of interest; (b) the contexts and settings in which the research has taken place; (c) the
+                    pertinent constructs and outcomes and whether there are any restrictions on how these were measured;
+                    and (d) the research designs or other methodological characteristics considered when identifying
+                    studies (Davies, 2000). Providing detailed inclusion criteria for the particular sample
+                    characteristics of interest can be particularly important given the range and complexity of the
+                    emotional and behavioral challenges experienced by students with EBD (e.g., <xref ref-type="bibr"
+                                                                                                      rid="bibr19-0198742916688653">
+                        Maggin et al., 2016</xref>). As such, the more specific that review authors can be regarding the
+                    focus of the research, the more specific the subsequent conclusions and recommendations can be as
+                    well. Moreover, it is often necessary to specify methodological criteria to clearly communicate the
+                    types of research designs eligible for addressing the review questions. Review of intervention
+                    research for students with EBD in particular often requires noting the specific research designs
+                    that were eligible for review given the range of experimental frameworks used across the literature.
+                    As such, many systematic reviews will stipulate that only those studies that randomly assigned
+                    participants to intervention or control conditions, used a particular quasi-experimental framework,
+                    or applied single-case research methods would be eligible (<xref ref-type="bibr"
+                                                                                     rid="bibr3-0198742916688653">
+                        Borenstein et al., 2009</xref>). Ultimately, the development of the specific eligibility
+                    criteria for each review will depend on its overall aims and purpose. It is important to note,
+                    however, that precise eligibility criteria can assist researchers in executing a thorough and
+                    efficient search process as well as making the review transparent, replicable, and interpretable.
+                </p>
+            </sec>
+            <sec doi="section6-0198742916688653">
+                <title>Search Procedures</title>
+                <p>Once the eligibility criteria have been established, the systematic review process moves away from
+                    conceptual development toward implementation. The purpose of the search is to identify the universe
+                    of eligible studies that meet the eligibility criteria. It is important to note that the strength of
+                    the review largely depends on the extent to which all the relevant studies are successfully
+                    identified and subsequently retrieved. Each individual study that is included in the review
+                    contributes new information either by providing additional support or contrary evidence to the
+                    results of the other studies (<xref ref-type="bibr" rid="bibr3-0198742916688653">Borenstein et al.,
+                        2009</xref>). Because each research report contributes to the evidence base, the results and
+                    conclusions of a systematic review are related to the extent to which all eligible research is
+                    considered. Researchers must therefore clearly describe the procedures for searching the literature
+                    to ensure all relevant research reports are identified. Many common strategies for searching the
+                    literature base for studies are presented in the proposed quality indicators in <xref
+                            ref-type="table" rid="table1-0198742916688653">Table 1</xref>. Examples of these procedures
+                    include explicitly naming the electronic databases, including databases of unpublished studies and,
+                    if applicable, research registries (i.e., publicly available database of ongoing and completed
+                    trials) searched; listing the keywords used to identify reports within the electronic searches; and
+                    describing any alternative procedures used to identify eligible reports such as hand searching
+                    journals, examining the citation lists of previous reviews, or contacting authors and other subject
+                    matter experts.
+                </p>
+                <p>Providing a description of the procedures taken to identify studies enhances the transparency of the
+                    process for readers and represents an important aspect of systematic reviews. In addition to these
+                    procedural steps, a number of additional reporting standards address the extent to which the pool of
+                    studies is reflective of the universe of possible studies on the topic. For instance, reporting the
+                    qualifications of those individuals conducting the search is important for determining whether there
+                    was sufficient expertise and experience, indicating whether there were language barriers that
+                    precluded the identification and subsequent review of studies in languages other than English can be
+                    an important limitation in many systematic reviews, and providing the date of the final search
+                    allows consumers to determine whether the current review is up-to-date or whether additional
+                    research might have been published on the topic. Because the intentional or unintentional exclusion
+                    of relevant studies raises the possibility that the review findings are not representative of the
+                    broader population of research findings, the reporting of these steps is essential to drawing valid
+                    and transparent conclusions.
+                </p>
+            </sec>
+            <sec doi="section7-0198742916688653">
+                <title>Retrieval Procedures</title>
+                <p>In addition to well-described search procedures, it is also important to provide a transparent and
+                    replicable description of the retrieval process (<xref ref-type="bibr"
+                                                                           rid="bibr14-0198742916688653">Higgins &amp;
+                        Green, 2011</xref>). Researchers cannot retrieve a portion of the identified studies in many
+                    cases. The specific reasons for not obtaining copies of identified reports can vary although some
+                    common reasons are that the particular record is unavailable either online or in print, the original
+                    document was lost or harmed, or the research report is in a different language. Regardless of the
+                    reason, there is almost always a portion of research reports that cannot be acquired. As such, it is
+                    important for review authors to record those studies that were deemed either eligible or possibly
+                    eligible but were not retrievable. Cataloging the number and proportion of papers that were
+                    retrieved provides readers with vital information to evaluate the rigor and validity of the review.
+                    Put another way, the validity of the results is compromised when only the easy-to-find studies are
+                    included (<xref ref-type="bibr" rid="bibr13-0198742916688653">Gough, Oliver, &amp; Thomas,
+                        2013</xref>). Reviews should contain explicit reference to the proportion of potentially
+                    eligible studies not obtained during the search with reasons for their omission.
+                </p>
+            </sec>
+            <sec doi="section8-0198742916688653">
+                <title>Coding Scheme Development and Implementation</title>
+                <p>The research questions in a systematic review are often addressed—in full or in part—through the
+                    development of a coding scheme. These coding schemes are used to collect descriptive information
+                    from the studies that can then be used to characterize the samples, outcome, and other key variables
+                    of interest (<xref ref-type="bibr" rid="bibr16-0198742916688653">Lipsey &amp; Wilson, 2001</xref>).
+                    For example, in their review of disproportionality of English Language Learners with EBD, <xref
+                            ref-type="bibr" rid="bibr11-0198742916688653">Gage, Gersten, Sugai, and Newman-Gonchar
+                        (2013)
+                    </xref> collected demographic information that not only described the samples but also were used as
+                    variables in the subsequent meta-analysis to examine variability in disproportionality rates. To
+                    transparently and reliably collect this information, the authors need to develop a coding protocol,
+                    which in turn guides the information they collect. It should be emphasized that the coding protocol
+                    developed by Gage et al. was developed to address their research questions pertaining to the extent
+                    of disproportionality and investigate the underlying patterns. Because coding schemes are developed
+                    to address the research questions of a given study, the particulars of each protocol will inevitably
+                    differ. Despite this inherent variability, specific coding categories can be employed in a majority
+                    of reviews, given their importance for evaluating both the rigor and generality of research drawn
+                    from various paradigms. These general coding categories and their content are reviewed in the
+                    following sections.
+                </p>
+                <sec doi="section9-0198742916688653">
+                    <title>Methodological quality</title>
+                    <p>Methodological quality refers broadly to the degree to which the research design procedures
+                        generate valid results (<xref ref-type="bibr" rid="bibr27-0198742916688653">Valentine,
+                            2009</xref>). The research reports identified for a particular review are likely to vary in
+                        terms of their adherence to a range of methodological indicators (<xref ref-type="bibr"
+                                                                                                rid="bibr17-0198742916688653">
+                            Maggin, 2015</xref>). As such, it is often necessary to consider the methodological strength
+                        of the research base to properly contextualize the results. For instance, <xref ref-type="bibr"
+                                                                                                        rid="bibr21-0198742916688653">
+                            Maggin, Chafouleas, Johnson, and Ruberto (2012)
+                        </xref> found that the research examining the effects of group contingency interventions on
+                        classroom behaviors often did not include measures of procedural fidelity. Providing evidence
+                        that the intervention was implemented as intended is critical for making claims that the
+                        intervention was in fact responsible for positive outcomes (<xref ref-type="bibr"
+                                                                                          rid="bibr5-0198742916688653">
+                            Collier-Meek, Fallon, Sanetti, &amp; Maggin, 2013</xref>). By collecting information on this
+                        particular methodological issue and others, the authors were able to provide a more nuanced
+                        overview of the evidence base aside from simply reporting the results. After all, the results of
+                        a study are meaningful but must be interpreted in relation to the research design and the
+                        various points where bias can be introduced. It is important to note that methodological
+                        strength is a multidimensional construct with many different features and that there are no
+                        perfect studies (<xref ref-type="bibr" rid="bibr27-0198742916688653">Valentine, 2009</xref>).
+                        Moreover, the relevant methodological features for a given review will depend on the type of
+                        research being considered. Fortunately, researchers have developed methodological standards and
+                        related tools that can address a large range of different designs including group-based
+                        experimental designs, single-case research, measurement studies, and qualitative methods (e.g., <xref
+                                ref-type="bibr" rid="bibr7-0198742916688653">Cook et al., 2014</xref>). We recommend
+                        that these quality indicators be used to evaluate and contextualize the strength of the findings
+                        within systematic reviews.
+                    </p>
+                </sec>
+                <sec doi="section10-0198742916688653">
+                    <title>Describing participants and settings</title>
+                    <p>The evaluation of study quality is important for establishing confidence in the research results;
+                        however, even the results of the best designed studies require consideration of the individuals
+                        and contexts to which the results can generalize (<xref ref-type="bibr"
+                                                                                rid="bibr27-0198742916688653">Valentine,
+                            2009</xref>). Systematic reviewers are well positioned to provide a detailed overview of the
+                        characteristics of participants and settings addressed in a particular body of work. For
+                        example, a research team conducting a review on the effects of a reading comprehension
+                        intervention for adolescents might consider a range of student characteristics and/or settings
+                        in which the research has been conducted. Researchers can then ascertain the extent to which
+                        interventions work for particular students in particular settings, and whether gaps exist that
+                        can be addressed through future research.
+                    </p>
+                </sec>
+                <sec doi="section11-0198742916688653">
+                    <title>Describing the variables under study</title>
+                    <p>Systematic reviews are compelling because they organize information across several sources to
+                        draw conclusions that are more generalizable than those from a single study. This includes the
+                        variability inherent across research participants and contexts included in different studies as
+                        well as the variables and phenomena being investigated. As a result, those engaged in conducting
+                        systematic reviews should aim to describe the patterns in the outcomes and other key variables
+                        used across studies, including important moderator variables. Examples of important moderator
+                        variables for systematic reviews of interventions include fidelity of intervention
+                        implementation; duration, frequency, and intensity of intervention; and intervention cost (<xref
+                                ref-type="bibr" rid="bibr10-0198742916688653">Cordray &amp; Morphy, 2009</xref>).
+                        Examining variables across studies allows reviewers to ascertain what constructs researchers are
+                        studying. Looking across studies, reviewers can determine the uniformity of construct
+                        definitions. For example, reviewers might conduct a systematic investigation of variability in
+                        operational definitions and data collection procedures for the independent variables, dependent
+                        variables, and educational phenomena under study (<xref ref-type="bibr"
+                                                                                rid="bibr15-0198742916688653">Knowles,
+                            Meng, &amp; Machalicek, 2015</xref>). Such variability will ultimately depend on key factors
+                        such as research questions, topic of study, and study measures. It is the reviewer’s
+                        responsibility to develop an approach for capturing this variability in a systematic way, so as
+                        to describe it to readers of the review.
+                    </p>
+                </sec>
+            </sec>
+            <sec doi="section12-0198742916688653">
+                <title>Data Analysis Plan</title>
+                <p>The goal of a plan for data analysis is to synthesize the results from the review; synthesis is the
+                    process of integrating findings from the studies to answer the research question (<xref
+                            ref-type="bibr" rid="bibr13-0198742916688653">Gough et al., 2013</xref>). The data analysis
+                    plan goes hand in hand with the research question. Following the extraction of data, the
+                    investigator is ready to synthesize the results obtained across studies. The specifics of the data
+                    analysis plan will depend on the type of data extracted and the overall goals of the systematic
+                    review. For example, quantitative data can either be statistically combined using meta-analytic
+                    procedures or summarized in table form, reported separately for each study. The advantage of
+                    meta-analysis relates to the improved precision of the statistical estimates obtained from
+                    aggregating quantitative results across samples drawn from several studies. These procedures also
+                    allow investigators the opportunity to estimate the consistency of the estimates through
+                    heterogeneity analyses and determine whether and to what extent conceptually relevant variables
+                    explain the variability in statistical estimates (<xref ref-type="bibr"
+                                                                            rid="bibr9-0198742916688653">Cooper et al.,
+                        2009</xref>).
+                </p>
+                <p>The systematic review quality indicators described in the preceding paragraphs represent widely
+                    regarded reporting standards (e.g., <xref ref-type="bibr" rid="bibr1-0198742916688653">APA,
+                        2010</xref>; <xref ref-type="bibr" rid="bibr14-0198742916688653">Higgins &amp; Green,
+                        2011</xref>; <xref ref-type="bibr" rid="bibr22-0198742916688653">Moher et al., 2015</xref>). To
+                    pilot the proposed standards and examine their reliability, as well as to evaluate the extent to
+                    which systematic reviews published in <italic>Behavioral Disorders</italic> adhered to these
+                    standards, we applied the standards to systematic reviews published in this title from 2005 to
+                    2016. As such, we sought to address the following research questions:
+                </p>
+                <list doi="list1-0198742916688653" list-type="simple">
+                    <list-item>
+                        <p>
+                            <bold>Research Question 1:</bold>
+                            To what extent have systematic reviews published in <italic>Behavioral Disorders</italic> been
+                            consistent with methodological quality indicators for systematic reviews?
+                        </p>
+                    </list-item>
+                    <list-item>
+                        <p>
+                            <bold>Research Question 2:</bold>
+                            Are there areas of particular strength and areas in need of more attention?
+                        </p>
+                    </list-item>
+                </list>
+                <p>In the following sections, we describe the procedures used to address these questions.</p>
+            </sec>
+        </sec>
+        <sec doi="section13-0198742916688653" sec-type="methods">
+            <title>Method</title>
+            <sec doi="section14-0198742916688653">
+                <title>Study Identification Procedures</title>
+                <p>The purpose of the current review was to identify systematic reviews and meta-analyses of research
+                    published in <italic>Behavioral Disorders</italic> from 2005 to 2016 and evaluate them on a range of
+                    established quality indicators for systematic review. Three individuals identified systematic
+                    reviews and meta-analyses (two held doctorate degrees in special education and the third was
+                    enrolled in a PhD program). These individuals are all study authors and each has experience
+                    conducting systematic reviews and meta-analyses. The following procedures were used to identify the
+                    pool of studies reviewed for the current article. First, the authors conducted a hand search of all
+                    copies of <italic>Behavioral Disorders</italic> published between January 2005 and May 2016. This
+                    hand search included the review of each title and abstract of papers published across these years to
+                    determine whether the article should be read in greater detail. The hand search resulted in the
+                    identification of 24 systematic reviews published over the aforementioned time period. Second, an
+                    electronic search of these title issues was also conducted as an extra measure to ensure that all
+                    relevant papers were identified. This electronic search was conducted in ERIC and executed with the
+                    following Boolean phrase: pub(“Behavioral Disorders“) AND (“meta-analysis” OR “systematic review” OR
+                    “literature review”) with a delimiter also applied to the time frame to ensure returns between the
+                    dates of interest. The electronic search returned a total of 309 papers with a majority of these
+                    published in other journals with titles containing the term “Behavioral Disorders.” The research
+                    team therefore discarded those papers published in other journals and reviewed the titles and
+                    abstracts of the remaining papers. This process resulted in the identification of zero additional
+                    papers being included in the present review. Each of the 24 papers identified was then retrieved as
+                    a portable document format (PDF) and placed into an electronic file-sharing folder that all members
+                    of the research team could access.
+                </p>
+            </sec>
+            <sec doi="section15-0198742916688653">
+                <title>Inclusion Criteria</title>
+                <p>The inclusion criteria used to select research reports for the present review were based on (a) the
+                    title of publication and (b) the methodological procedures used within the studies. Broadly,
+                    studies were included if systematic review procedures were employed to address the research
+                    question. More specifically, systematic reviews were differentiated from other research approaches
+                    and less structured reviews if (a) the stated purpose of the research was to review extant
+                    literature and (b) there was a formal method section included in the article that described the
+                    process for selecting, searching, locating, and analyzing previously existing research studies.
+                    Regarding this latter criteria, literature reviews that were developed using narrative rather than
+                    systematic procedures were excluded from the present review. Moreover, there were no qualifications
+                    placed on the type of research that was included in the original review and, therefore, could
+                    include randomized or quasi-experimental, single-case, qualitative, and other research methods.
+                    Moreover, the search was restricted to systematic reviews and meta-analyses published between 2005
+                    and 2016 to align with the publication of the Council for Exceptional Children (CEC) methodological
+                    quality indicators, which are widely viewed as a watershed development in the field, raising the
+                    standards for research (<xref ref-type="bibr" rid="bibr23-0198742916688653">Odom et al., 2005</xref>).
+                </p>
+            </sec>
+            <sec doi="section16-0198742916688653">
+                <title>Study Coding Procedures</title>
+                <p>We coded the identified set of systematic reviews and meta-analyses on 41 items or quality indicators
+                    in seven methodological domains drawn from established guidelines for the conduct of systematic
+                    reviews and meta-analyses from the <xref ref-type="bibr" rid="bibr1-0198742916688653">APA
+                        (2010)</xref>, <italic>Cochrane Collaboration</italic> (<xref ref-type="bibr"
+                                                                                      rid="bibr14-0198742916688653">
+                        Higgins &amp; Green, 2011</xref>), and the
+                    <xref ref-type="bibr" rid="bibr28-0198742916688653">
+                        <italic>What Works Clearinghouse</italic>
+                        (WWC; 2013)
+                    </xref>
+                    . <xref ref-type="table" rid="table1-0198742916688653">Table 1</xref> provides an overview of each
+                    of these methodological domains and the items used to operationalize them. The seven methodological
+                    domains include (a) the search procedures reported, which relate to the extent to which the authors
+                    were able to identify the universe of studies related to the research question; (b) the inclusion
+                    and exclusion criteria used within the review, which provide a basis for identifying studies that
+                    are relevant to the research questions; (c) the procedures used to retrieve studies deemed eligible,
+                    including explicit reference to relevant studies that could not be obtained; (d) the methods used to
+                    screen studies, which allows readers to evaluate whether the studies were consistently and
+                    accurately assessed for eligibility; (e) the procedures associated with implementing a coding scheme
+                    and related data collection processes; (f) the content of the coding scheme, which is essential for
+                    readers to determine the variables and issues that the research team considers most important in
+                    relation to the research question; and (g) the methods used to analyze the data, which encompasses
+                    both the approaches used to aggregate the descriptive results of the coding scheme and to synthesize
+                    the results across studies. All of the items were evaluated as either being present or not present
+                    unless otherwise noted.
+                </p>
+            </sec>
+            <sec doi="section17-0198742916688653">
+                <title>Coder Training and Agreement</title>
+                <p>Two research assistants who had varying levels of expertise and experience with research methods
+                    conducted coding. The lead coder was a doctoral student in special education who had taken courses
+                    in research design and statistics and had experience in the conduct of previous systematic reviews.
+                    The secondary coder was also a special education doctoral student with no previous experience with
+                    systematic review procedures. Prior to initiating study coding, the research assistants underwent
+                    training that consisted of the following procedures: (a) an introduction to the study and the coding
+                    protocol presented by the lead authors; (b) practice coding a subset of reviews and meta-analyses
+                    that would have been eligible for the study, except for their publication year (i.e., publication
+                    year prior to 2005); and (c) computing agreement statistics for the reviews used for coding practice
+                    until there was at least 90% agreement across coders for all codes. Coders were then given studies
+                    to code independently, with the lead coder assigned to review all of the eligible studies and the
+                    secondary coder assigned a random subset of 30% of the studies to establish interrater agreement.
+                    Interrater agreement was computed using a percentage agreement formula in which total agreements for
+                    each code were divided by the total agreements plus disagreements. Mean percentages across coders
+                    for each methodological domain are presented in <xref ref-type="table"
+                                                                          rid="table2-0198742916688653">Table 2</xref>.
+                </p>
+                <table-wrap doi="table2-0198742916688653" position="float">
+                    <label>Table 2.</label>
+                    <caption>
+                        <p>Interobserver agreement for each methodological domain sampled in the coding scheme.</p>
+                    </caption>
+                    <alternatives>
+                        <graphic href="10.1177_0198742916688653-table2.tif"/>
+                        <table>
+                            <colgroup>
+                                <col align="left"/>
+                                <col align="char" char="."/>
+                                <col align="char" char="."/>
+                                <col align="char" char="."/>
+                            </colgroup>
+                            <thead>
+                                <tr>
+                                    <th align="left">Methodological domain</th>
+                                    <th align="center">Total agreed</th>
+                                    <th align="center">Total possible</th>
+                                    <th align="center">Interobserver agreement (%)</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                <tr>
+                                    <td>Research question</td>
+                                    <td>7</td>
+                                    <td>7</td>
+                                    <td>100</td>
+                                </tr>
+                                <tr>
+                                    <td>Eligibility criteria</td>
+                                    <td>27</td>
+                                    <td>29</td>
+                                    <td>93</td>
+                                </tr>
+                                <tr>
+                                    <td>Search procedures</td>
+                                    <td>91</td>
+                                    <td>101</td>
+                                    <td>90</td>
+                                </tr>
+                                <tr>
+                                    <td>Retrieval procedures</td>
+                                    <td>24</td>
+                                    <td>29</td>
+                                    <td>83</td>
+                                </tr>
+                                <tr>
+                                    <td>Systematic screening</td>
+                                    <td>33</td>
+                                    <td>36</td>
+                                    <td>92</td>
+                                </tr>
+                                <tr>
+                                    <td>Coding scheme procedures</td>
+                                    <td>43</td>
+                                    <td>47</td>
+                                    <td>91</td>
+                                </tr>
+                                <tr>
+                                    <td>Coding scheme content</td>
+                                    <td>21</td>
+                                    <td>22</td>
+                                    <td>95</td>
+                                </tr>
+                                <tr>
+                                    <td>Data analysis plan</td>
+                                    <td>21</td>
+                                    <td>22</td>
+                                    <td>95</td>
+                                </tr>
+                                <tr>
+                                    <td>Total</td>
+                                    <td>267</td>
+                                    <td>293</td>
+                                    <td>91</td>
+                                </tr>
+                            </tbody>
+                        </table>
+                    </alternatives>
+                    <table-wrap-foot>
+                        <fn doi="table-fn1-0198742916688653">
+                            <p>
+                                <italic>Note.</italic>
+                                Interobserver agreement indices were computed based on independent coding of 30% of the
+                                studies which were randomly sampled; coder discrepancies were resolved through
+                                developing a consensus between coders.
+                            </p>
+                        </fn>
+                    </table-wrap-foot>
+                </table-wrap>
+            </sec>
+            <sec doi="section18-0198742916688653">
+                <title>Data Analysis Plan</title>
+                <p>To examine the extent to which systematic reviews and meta-analyses published in <italic>Behavioral
+                    Disorders
+                </italic> from 2005 to 2016 are consistent with established quality indicators, we computed the
+                    proportion of systematic reviews that met each quality indicator. To illustrate the extent to which
+                    each domain and item was marked as present or not present, data were graphed using a horizontal
+                    stacked bar chart indicating the proportion of reviews that addressed the criterion or not. The data
+                    for each methodological domain were then sorted to illustrate those criteria that were addressed
+                    more often.
+                </p>
+            </sec>
+        </sec>
+        <sec doi="section19-0198742916688653" sec-type="results">
+            <title>Results</title>
+            <sec doi="section20-0198742916688653">
+                <title>Quality Indicator Application</title>
+                <sec doi="section21-0198742916688653">
+                    <title>Search procedures</title>
+                    <p>The search procedure items provided an overview of the extent to which the included reviews were
+                        consistent with recommended strategies and practices for identifying relevant studies on the
+                        review topic. Results for each item are graphically depicted in <xref ref-type="fig"
+                                                                                              rid="fig1-0198742916688653">
+                            Figure 1</xref>. With regard to this particular methodological domain, we identified a
+                        number of areas in which authors consistently described their procedures. For instance, all or
+                        nearly all of the reviews identified the databases searched to locate potentially eligible
+                        studies (<italic>n</italic> = 24) and provided a list of keywords that were used within these
+                        database searches (<italic>n</italic> = 22). Four additional criteria were determined to be
+                        present across the majority of included reviews, including the use of hand searches of journals
+                        to locate studies (<italic>n</italic> = 18), the examination of unpublished literature sources (<italic>
+                            n
+                        </italic> = 18), the review of citation lists of included studies (<italic>n</italic> = 16), and
+                        the process of reviewing titles and abstracts as part of the electronic search described (<italic>
+                            n
+                        </italic> = 14). The remaining eight criteria related to search procedures were found to be
+                        reported in fewer than 50% of the reviews and included examining the citation lists of previous
+                        reviews (<italic>n</italic> = 11); describing the qualifications of those charged with coding
+                        studies (<italic>n</italic> = 8); specifying language delimiters placed on searches (<italic>n
+                        </italic> = 7); reporting interobserver agreement on the search process (<italic>n</italic> =
+                        5); consulting subject matter experts to verify the citation list of the review (<italic>n
+                        </italic> = 5); contacting authors of primary studies to determine whether there were any
+                        additional, unpublished reports (<italic>n</italic> = 4); specifying the time period or date of
+                        the search process (<italic>n</italic> = 4); and searching registries of completed or ongoing
+                        trials or studies to ensure all relevant research on the topic was obtained (<italic>n</italic> =
+                        1).
+                    </p>
+                    <fig doi="fig1-0198742916688653" position="float">
+                        <label>Figure 1.</label>
+                        <caption>
+                            <p>Percentage of systematic review quality indicators marked as present and not for the
+                                inclusion and exclusion criteria, screening studies, retrieval procedures, and coding
+                                scheme domains.
+                            </p>
+                        </caption>
+                        <graphic href="10.1177_0198742916688653-fig1.tif"/>
+                    </fig>
+                </sec>
+                <sec doi="section22-0198742916688653">
+                    <title>Inclusion and exclusion criteria</title>
+                    <p>The inclusion and exclusion criteria domain provided an overview of the extent to which the
+                        included reviews provided information necessary to clearly determine the population of studies
+                        that would be eligible for the review. Results for each item included in the domain are
+                        graphically presented in the upper left-hand panel of <xref ref-type="fig"
+                                                                                    rid="fig1-0198742916688653">Figure
+                            1</xref>. Two items were scored on a 3-point scale and were coded as either not present,
+                        partially present, or present. The first of these items pertained to the research questions and
+                        overall review purpose. Results indicated that a statement of the review’s research questions or
+                        study purpose were present for most of the reviews (<italic>n</italic> = 19), whereas fewer were
+                        rated as partially present (<italic>n</italic> = 3) or not present (<italic>n</italic> = 1).
+                        With regard to whether the operational characteristics of the variables central to the review
+                        were adequately described, the majority of the reviews were rated as having met this criteria (<italic>
+                            n
+                        </italic> = 15) with the remaining reviews rated as either partially present (<italic>n</italic> =
+                        8) or not present (<italic>n</italic> = 1). Regarding whether the particular diagnostic label
+                        for participants had been clearly reported, all of the reviews met this criterion (<italic>n
+                        </italic> = 24). Moreover, all of the reviews made clear the types of research designs that were
+                        eligible for review (<italic>n</italic> = 24). Approximately two thirds of the reviews were
+                        coded as describing the necessary characteristics of the student population eligible for the
+                        review (<italic>n</italic> = 19) and the time period for eligible studies (<italic>n</italic> =
+                        18).
+                    </p>
+                </sec>
+                <sec doi="section23-0198742916688653">
+                    <title>Retrieval procedures</title>
+                    <p>These criteria evaluated reporting of the process used to narrow the initial pool of potentially
+                        eligible studies to those included in the review. Results for each item included in the domain
+                        are graphically presented in the lower left-hand panel of <xref ref-type="fig"
+                                                                                        rid="fig1-0198742916688653">
+                            Figure 1</xref>. Application of the coding scheme indicated that fewer than half of the
+                        reviews provided information on the number of citations returned from the initial database
+                        search (<italic>n</italic> = 10) and the number of these citations that were excluded during the
+                        initial search (<italic>n</italic> = 10). Most of the reviews, however, contained information on
+                        the number of studies that were successfully retrieved (<italic>n</italic> = 17) and the number
+                        of studies retrieved and subsequently screened from further review (<italic>n</italic> = 17).
+                    </p>
+                </sec>
+                <sec doi="section24-0198742916688653">
+                    <title>Screening studies</title>
+                    <p>The process for screening studies domain provided an assessment of the extent to which the
+                        included reviews adhered to recommended practices for reporting on the screening process.
+                        Results for each item included in the domain are graphically presented in the upper right-hand
+                        panel of <xref ref-type="fig" rid="fig1-0198742916688653">Figure 1</xref>. These results
+                        indicated that each of the reviews contained information pertaining to the total number of
+                        studies included in the review (<italic>n</italic> = 24) and that a majority of the reviews
+                        provided the reasons that those individual studies excluded from the review were screened from
+                        further review (<italic>n</italic> = 20). Slightly more than half of the reviews contained
+                        information on the credentials and training for those individuals charged with implementing the
+                        screening process (<italic>n</italic> = 13). Precisely half of the reviews included information
+                        about the process for resolving disagreements across those members of the research team engaged
+                        in the screening process (<italic>n</italic> = 12) with a third reporting reliability
+                        information on the screening procedures (<italic>n</italic> = 8).
+                    </p>
+                </sec>
+                <sec doi="section25-0198742916688653">
+                    <title>Coding scheme procedures</title>
+                    <p>The coding scheme procedures domain included items that assessed the methods used to
+                        systematically code the information within primary studies. Results for each item included in
+                        the domain are graphically presented in the lower right-hand panel of <xref ref-type="fig"
+                                                                                                    rid="fig1-0198742916688653">
+                            Figure 1</xref>. Most of the reviews described the response categories that coders could
+                        select from to code the relevant information from the studies (<italic>n</italic> = 21).
+                        Moreover, between two thirds and three quarters of the reviews described the expertise of those
+                        coding the studies (<italic>n</italic> = 16), the proportion of studies that were double coded
+                        for reliability (<italic>n</italic> = 17), and the interobserver agreement of the coding
+                        scheme’s application to the studies included in the review (<italic>n</italic> = 17). Fewer than
+                        two thirds of the studies provided information about the processes for resolving disagreements
+                        across coders (<italic>n</italic> = 15), the methods used to train and prepare coders to
+                        implement the scheme (<italic>n</italic> = 7), and the process used to address circumstances
+                        where key information was missing from the report altogether (<italic>n</italic> = 4).
+                    </p>
+                </sec>
+                <sec doi="section26-0198742916688653">
+                    <title>Coding scheme content</title>
+                    <p>The content of the coding schemes used across the included reviews was also considered. Results
+                        for each item included in the domain are graphically presented in the upper right-hand panel of <xref
+                                ref-type="fig" rid="fig2-0198742916688653">Figure 2</xref>. Because the content of each
+                        coding scheme should be developed to address the particular research questions and study
+                        purposes of the review, these items focused on the general categories contained within the
+                        reviews. It was determined that each of the coding schemes explicitly collected information on
+                        the primary variables of interest and the majority included information pertaining to the
+                        participants of the study (<italic>n</italic> = 21). Exactly half of the studies considered
+                        issues of methodological quality (<italic>n</italic> = 12).
+                    </p>
+                    <fig doi="fig2-0198742916688653" position="float">
+                        <label>Figure 2.</label>
+                        <caption>
+                            <p>Percentage of systematic review quality indicators marked as present and not for the
+                                search procedures, coding categories, and data analysis plan domains.
+                            </p>
+                        </caption>
+                        <graphic href="10.1177_0198742916688653-fig2.tif"/>
+                    </fig>
+                </sec>
+                <sec doi="section27-0198742916688653">
+                    <title>Data analysis plan</title>
+                    <p>The data analysis plan items related to whether the reviews contained information on the
+                        processes and procedures that were used to analyze the data, such as the particular statistical
+                        models in a meta-analysis, the process for identifying themes and patterns within metasyntheses,
+                        or the use of descriptive statistics in cases where synthesis was not the goal of the review.
+                        Results for each item included in the domain are graphically presented in the lower right-hand
+                        panel of <xref ref-type="fig" rid="fig2-0198742916688653">Figure 2</xref>. As with the coding
+                        scheme content, the particular data analysis plan was not the focus but rather the more general
+                        aspects of a data analysis plan. We found that most of the reviews did include information on
+                        the processes used to aggregate results across studies (<italic>n</italic> = 22) and identify
+                        patterns within the data on which to draw conclusions (<italic>n</italic> = 23). However, only
+                        slightly more than half provided a formal data analysis section (<italic>n</italic> = 13).
+                    </p>
+                </sec>
+            </sec>
+        </sec>
+        <sec doi="section28-0198742916688653" sec-type="discussion">
+            <title>Discussion</title>
+            <p>The purpose of this article was to provide an overview and rationale for rigorous systematic review
+                methods to ensure that the information drawn from these reviews is the most valid and current available.
+                To examine the extent to which systematic reviews published in <italic>Behavioral Disorders</italic> were
+                consistent with the proposed standards, we applied the quality indicators to reviews published in the
+                title from 2005 to 2016. Findings indicated several areas of distinct strength with additional areas
+                in need of more attention among the 24 reviews. Before discussing the specific findings of our review,
+                it is worth briefly considering the importance that systematic reviews have for stakeholders in the
+                fields of special education and EBD. As the field continues to place more emphasis on the importance of
+                research in guiding the selection of practices and policies, it is critical that stakeholders have
+                access to the most recent and accurate information on which to make decisions. The systematic review
+                ultimately represents the most valid and reliable vehicle for examining and synthesizing research
+                findings across studies to inform the development of empirically grounded sets of practices and
+                policies. As such, it is necessary to take stock of the methods being used to identify both strengths
+                and weaknesses to ensure that the field is producing the most dependable information to improve the
+                outcomes and lives of students with EBD. In the following sections, we describe specific areas of
+                strength and areas in which the field might improve.
+            </p>
+            <sec doi="section29-0198742916688653">
+                <title>Quality Indicator Application</title>
+                <p>The application of the review indicators led to the identification of several areas of strength
+                    across the included reviews. For instance, there were a number of specific methodological criteria
+                    that were present across all of the reviews. Examples include the specification of inclusion
+                    criteria, noting the particular special educational label necessary for inclusion, and providing
+                    information on the total number of studies in the review. The methodological domain with the
+                    greatest adherence across the reviews was the application of inclusion and exclusion criteria. As
+                    such, it appears that systematic review authors have effectively established the boundaries of the
+                    review for their intended audiences. In fact, many of the criteria that were consistently
+                    implemented across the reviews reflected procedural components that could be replicated by other
+                    researchers. As others have pointed out (<xref ref-type="bibr" rid="bibr26-0198742916688653">
+                        Travers, Cook, Therrien, &amp; Coyne, 2016</xref>), the notion of replicability is central to
+                    the scientific endeavor and is mandatory for developing research-based practices, programs, and
+                    policies. Within the context of systematic reviews, providing enough procedural information to
+                    replicate a systematic review allows others to evaluate the strength of the research and to confirm
+                    or challenge the validity of the research process.
+                </p>
+                <p>The consistent adherence on the part of reviewers in providing detailed descriptions of the review
+                    procedures is certainly encouraging. Of course, there were some procedural areas where more
+                    consistent reporting is needed, such as describing the process for training coders on the coding
+                    scheme, providing details on the process for resolving coding disagreements, and addressing the
+                    methodological quality of the included studies. An examination of the quality indicators that were
+                    not consistently implemented reveals that many are related to the need to better report the results
+                    of the procedural indicators. For instance, the majority of the studies did not provide information
+                    on the reliability of the screening process, the total number of citations returned in the
+                    electronic search, and the number of total studies screened out during the search process. Rather
+                    than relate to issues of the reproducibility of the procedures, these indicators relate more to
+                    issues of transparency of the review. Research transparency is a multidimensional construct and is
+                    central to developing and disseminating empirically based information (<xref ref-type="bibr"
+                                                                                                 rid="bibr6-0198742916688653">
+                        Cook, 2014</xref>). In the current context, transparency refers to the process of providing
+                    specific information that would assist others in understanding and replicating the review process.
+                    Reporting the number of studies identified through a particular database, for example, allows others
+                    to verify the results of the search process. The information that appears to be missing most
+                    consistently across the sampled reviews, therefore, would allow others to empirically corroborate
+                    the review procedures. Including this information seems to be a worthy advance for review authors to
+                    strive toward, as our field continues to pursue the use of the most rigorous research methods at our
+                    disposal.
+                </p>
+            </sec>
+            <sec doi="section30-0198742916688653">
+                <title>Concluding Remarks</title>
+                <p>The dissemination of rigorous research designed to address the complex and varied needs of students
+                    with EBD is an essential mission of <italic>Behavioral Disorders</italic>. In the present article,
+                    we outlined a series of quality indicators for conducting rigorous systematic reviews and applied
+                    these indicators to reviews published in <italic>Behavioral Disorders</italic> between 2005 and
+                    2016. The results of this application led to the identification of several areas of methodological
+                    strength and some areas that have tended to be overlooked. Researchers engaged in conducting
+                    systematic reviews to inform practice and policy related to students with EBD are encouraged to use
+                    the current pilot standards as a guide to ensure the most rigorous systematic review methods are
+                    used to disseminate the most valid and reliable information. We conclude with some considerations
+                    for the foregoing research.
+                </p>
+                <p>It is instructive to consider some of the challenges associated with conducting a rigorous systematic
+                    review. Among the primary challenges in our discipline is the tendency of systematic reviewers to
+                    generalize the results too broadly and to assume that the results apply to all students with EBD. It
+                    is our observation that researchers conducting a systematic review will often not describe the
+                    conceptual reasons a particular intervention or program is expected to work and for whom (<xref
+                            ref-type="bibr" rid="bibr20-0198742916688653">Maggin, Zurheide, Pickett, &amp; Baillie,
+                        2015</xref>). Fortunately, there are published examples in which these conceptual links are
+                    brought to the forefront. For instance, <xref ref-type="bibr" rid="bibr4-0198742916688653">Bruhn,
+                        McDaniel, and Kreigh (2015)
+                    </xref> conducted a review examining the empirical research for self-monitoring interventions for
+                    students with behavior problems. Rather than group all self-monitoring interventions together and
+                    assume the same components, these authors examined the underlying practices used in each study and
+                    their connection to issues of behavioral function. As a result, the authors were able to provide
+                    clear and direct guidance to the reader on whether self-monitoring interventions worked, for whom,
+                    and under what conditions. It is worth noting that the process of integrating theoretical,
+                    contextual, and methodological nuances across studies is not an easy endeavor. However, it is
+                    incumbent on the review authors to make these connections explicit for the reader. More attention to
+                    the sample characteristics and conceptual underpinnings of the practices and policies identified as
+                    evidence-based by systematic reviewers will allow for more targeted use of effective methods.
+                </p>
+                <p>It is also important to discuss some of the challenges of applying quality indicators to bodies of
+                    research. To be sure, assessing methodological quality is an important endeavor and one that is
+                    necessary to accurately contextualize research reports (<xref ref-type="bibr"
+                                                                                  rid="bibr27-0198742916688653">
+                        Valentine, 2009</xref>). Despite these advantages, there is also a need to constructively use
+                    sets of quality indicators with the understanding that these are essentially research instruments
+                    that are subject to the same issues of validity and reliability as those quality indicators used
+                    within primary research. As such, additional vetting of the quality indicators forwarded here and
+                    their application to special education research is needed. Fortunately, recent research has provided
+                    a template of how such a process might be pursued (<xref ref-type="bibr"
+                                                                             rid="bibr7-0198742916688653">Cook et al.,
+                        2014</xref>). Finally, it may be tempting to assume that systematic reviews that address fewer
+                    indicators are of lower quality. In many instances, this might be the case although there might also
+                    be examples in which the particular research being reviewed or the focus of the review might
+                    preclude the implementation of all criteria. It is our recommendation, therefore, that future
+                    applications of these and other indicators be used more to describe the current status of research
+                    in a particular area rather than be used for evaluative purposes.
+                </p>
+            </sec>
+        </sec>
+    </body>
+    <back>
+        <fn-group>
+            <fn fn-type="conflict">
+                <label>Declaration of Conflicting Interests</label>
+                <p>The author(s) declared no potential conflicts of interest with respect to the research, authorship,
+                    and/or publication of this article.
+                </p>
+            </fn>
+            <fn fn-type="financial-disclosure">
+                <label>Funding</label>
+                <p>The author(s) received no financial support for the research, authorship, and/or publication of this
+                    article.
+                </p>
+            </fn>
+        </fn-group>
+        <ref-list>
+            <title>References</title>
+            <ref doi="bibr1-0198742916688653">
+                <mixed-citation publication-type="book">
+                    <collab>American Psychological Association</collab>. (<year>2010</year>). <source>Meta-analysis
+                    reporting standards</source>. <publisher-loc>Washington, DC</publisher-loc>: <publisher-name>
+                    Author</publisher-name>.
+                </mixed-citation>
+            </ref>
+            <ref doi="bibr2-0198742916688653">
+                <mixed-citation publication-type="title">
+                    <person-group person-group-type="author">
+                        <string-name>
+                            <surname>Baumeister</surname>
+                            <given-names>R. F.</given-names>
+                        </string-name>
+                        ,
+                        <string-name>
+                            <surname>Leary</surname>
+                            <given-names>M. R.</given-names>
+                        </string-name>
+                    </person-group>
+                    (<year>1997</year>). <article-title>Writing a narrative literature review</article-title>. <source>
+                    Review of General Psychology</source>, <volume>1</volume>, <fpage>311</fpage>–<lpage>320</lpage>.
+                </mixed-citation>
+            </ref>
+            <ref doi="bibr3-0198742916688653">
+                <mixed-citation publication-type="book">
+                    <person-group person-group-type="author">
+                        <string-name>
+                            <surname>Borenstein</surname>
+                            <given-names>M.</given-names>
+                        </string-name>
+                        ,
+                        <string-name>
+                            <surname>Hedges</surname>
+                            <given-names>L. V.</given-names>
+                        </string-name>
+                        ,
+                        <string-name>
+                            <surname>Higgins</surname>
+                            <given-names>J. P. T.</given-names>
+                        </string-name>
+                        ,
+                        <string-name>
+                            <surname>Rothstein</surname>
+                            <given-names>H. R.</given-names>
+                        </string-name>
+                    </person-group>
+                    (<year>2009</year>). <source>Introduction to meta-analysis</source>. <publisher-loc>New York,
+                    NY</publisher-loc>: <publisher-name>John Wiley</publisher-name>.
+                </mixed-citation>
+            </ref>
+            <ref doi="bibr4-0198742916688653">
+                <mixed-citation publication-type="title">
+                    <person-group person-group-type="author">
+                        <string-name>
+                            <surname>Bruhn</surname>
+                            <given-names>A.</given-names>
+                        </string-name>
+                        ,
+                        <string-name>
+                            <surname>McDaniel</surname>
+                            <given-names>S.</given-names>
+                        </string-name>
+                        ,
+                        <string-name>
+                            <surname>Kreigh</surname>
+                            <given-names>C.</given-names>
+                        </string-name>
+                    </person-group>
+                    (<year>2015</year>). <article-title>Self-monitoring interventions for students with behavior
+                    problems: A systematic review of current research</article-title>. <source>Behavioral
+                    Disorders</source>, <volume>40</volume>, <fpage>102</fpage>–<lpage>121</lpage>.
+                </mixed-citation>
+            </ref>
+            <ref doi="bibr5-0198742916688653">
+                <mixed-citation publication-type="title">
+                    <person-group person-group-type="author">
+                        <string-name>
+                            <surname>Collier-Meek</surname>
+                            <given-names>M. A.</given-names>
+                        </string-name>
+                        ,
+                        <string-name>
+                            <surname>Fallon</surname>
+                            <given-names>L. M.</given-names>
+                        </string-name>
+                        ,
+                        <string-name>
+                            <surname>Sanetti</surname>
+                            <given-names>L. M. H.</given-names>
+                        </string-name>
+                        ,
+                        <string-name>
+                            <surname>Maggin</surname>
+                            <given-names>D. M.</given-names>
+                        </string-name>
+                    </person-group>
+                    (<year>2013</year>). <article-title>Focus on implementation: Assessing and promoting treatment
+                    fidelity</article-title>. <source>Teaching Exceptional Children</source>, <volume>
+                    45</volume>, <fpage>52</fpage>–<lpage>59</lpage>.
+                </mixed-citation>
+            </ref>
+            <ref doi="bibr6-0198742916688653">
+                <mixed-citation publication-type="title">
+                    <person-group person-group-type="author">
+                        <string-name>
+                            <surname>Cook</surname>
+                            <given-names>B. G.</given-names>
+                        </string-name>
+                    </person-group>
+                    (<year>2014</year>). <article-title>A call for examining replication and bias in special education
+                    research</article-title>. <source>Remedial and Special Education</source>, <volume>
+                    35</volume>, <fpage>233</fpage>–<lpage>246</lpage>. doi:
+                    <pub-doi pub-doi-type="doi">10.1177/0741932514528995</pub-doi>
+                </mixed-citation>
+            </ref>
+            <ref doi="bibr7-0198742916688653">
+                <mixed-citation publication-type="title">
+                    <person-group person-group-type="author">
+                        <string-name>
+                            <surname>Cook</surname>
+                            <given-names>B. G.</given-names>
+                        </string-name>
+                        ,
+                        <string-name>
+                            <surname>Buysse</surname>
+                            <given-names>V.</given-names>
+                        </string-name>
+                        ,
+                        <string-name>
+                            <surname>Klingner</surname>
+                            <given-names>J.</given-names>
+                        </string-name>
+                        ,
+                        <string-name>
+                            <surname>Landrum</surname>
+                            <given-names>T.</given-names>
+                        </string-name>
+                        ,
+                        <string-name>
+                            <surname>McWilliam</surname>
+                            <given-names>R.</given-names>
+                        </string-name>
+                        ,
+                        <string-name>
+                            <surname>Tankersley</surname>
+                            <given-names>M.</given-names>
+                        </string-name>
+                        ,
+                        <string-name>
+                            <surname>Test</surname>
+                            <given-names>D.</given-names>
+                        </string-name>
+                    </person-group>
+                    (<year>2014</year>). <article-title>Council for Exceptional Children: Standards for evidence-based
+                    practices in special education</article-title>. <source>Teaching Exceptional
+                    Children</source>, <volume>46</volume>, <fpage>206</fpage>–<lpage>212</lpage>. doi:
+                    <pub-doi pub-doi-type="doi">10.1177/0040059914531389</pub-doi>
+                </mixed-citation>
+            </ref>
+            <ref doi="bibr8-0198742916688653">
+                <mixed-citation publication-type="title">
+                    <person-group person-group-type="author">
+                        <string-name>
+                            <surname>Cook</surname>
+                            <given-names>B. G.</given-names>
+                        </string-name>
+                        ,
+                        <string-name>
+                            <surname>Tankersley</surname>
+                            <given-names>M.</given-names>
+                        </string-name>
+                        ,
+                        <string-name>
+                            <surname>Landrum</surname>
+                            <given-names>T. J.</given-names>
+                        </string-name>
+                    </person-group>
+                    (<year>2009</year>). <article-title>Determining evidence-based practices in special
+                    education</article-title>. <source>Exceptional Children</source>, <volume>75</volume>, <fpage>
+                    365</fpage>–<lpage>383</lpage>. doi:
+                    <pub-doi pub-doi-type="doi">10.1177/001440290907500306</pub-doi>
+                </mixed-citation>
+            </ref>
+            <ref doi="bibr9-0198742916688653">
+                <mixed-citation publication-type="book">
+                    <person-group person-group-type="author">
+                        <string-name>
+                            <surname>Cooper</surname>
+                            <given-names>H.</given-names>
+                        </string-name>
+                        ,
+                        <string-name>
+                            <surname>Hedges</surname>
+                            <given-names>L. V.</given-names>
+                        </string-name>
+                        ,
+                        <string-name>
+                            <surname>Valentine</surname>
+                            <given-names>J. C.</given-names>
+                        </string-name>
+                    </person-group>
+                    (<year>2009</year>). <source>The handbook of research synthesis and meta-analysis
+                </source> (<edition>2nd ed.</edition>, pp. <fpage>3</fpage>–<lpage>16</lpage>). <publisher-loc>New York,
+                    NY</publisher-loc>: <publisher-name>Russell Sage Foundation</publisher-name>.
+                </mixed-citation>
+            </ref>
+            <ref doi="bibr10-0198742916688653">
+                <mixed-citation publication-type="book">
+                    <person-group person-group-type="author">
+                        <string-name>
+                            <surname>Cordray</surname>
+                            <given-names>D. S.</given-names>
+                        </string-name>
+                        ,
+                        <string-name>
+                            <surname>Morphy</surname>
+                            <given-names>P.</given-names>
+                        </string-name>
+                    </person-group>
+                    (<year>2009</year>). <article-title>Research synthesis and public policy</article-title>. In
+                    <person-group person-group-type="editor">
+                        <string-name>
+                            <surname>Cooper</surname>
+                            <given-names>H.</given-names>
+                        </string-name>
+                        ,
+                        <string-name>
+                            <surname>Hedges</surname>
+                            <given-names>L. V.</given-names>
+                        </string-name>
+                        ,
+                        <string-name>
+                            <surname>Valentine</surname>
+                            <given-names>J. C.</given-names>
+                        </string-name>
+                    </person-group>
+                    (Eds.), <source>The handbook of research synthesis and meta-analysis</source> (<edition>2nd
+                    ed.</edition>, pp. <fpage>473</fpage>–<lpage>493</lpage>). <publisher-loc>New York,
+                    NY</publisher-loc>: <publisher-name>Russell Sage Foundation</publisher-name>.
+                </mixed-citation>
+            </ref>
+            <ref doi="bibr11-0198742916688653">
+                <mixed-citation publication-type="title">
+                    <person-group person-group-type="author">
+                        <string-name>
+                            <surname>Gage</surname>
+                            <given-names>N.</given-names>
+                        </string-name>
+                        ,
+                        <string-name>
+                            <surname>Gersten</surname>
+                            <given-names>R.</given-names>
+                        </string-name>
+                        ,
+                        <string-name>
+                            <surname>Sugai</surname>
+                            <given-names>G.</given-names>
+                        </string-name>
+                        ,
+                        <string-name>
+                            <surname>Newman-Gonchar</surname>
+                            <given-names>R.</given-names>
+                        </string-name>
+                    </person-group>
+                    (<year>2013</year>). <article-title>Disproportionality of English learners with emotional and/or
+                    behavioral disorders: A comparative meta-analysis with English learners with learning
+                    disabilities</article-title>. <source>Behavioral Disorders</source>, <volume>38</volume>, <fpage>
+                    123</fpage>–<lpage>136</lpage>.
+                </mixed-citation>
+            </ref>
+            <ref doi="bibr12-0198742916688653">
+                <mixed-citation publication-type="title">
+                    <person-group person-group-type="author">
+                        <string-name>
+                            <surname>Gersten</surname>
+                            <given-names>R.</given-names>
+                        </string-name>
+                        ,
+                        <string-name>
+                            <surname>Fuchs</surname>
+                            <given-names>L. S.</given-names>
+                        </string-name>
+                        ,
+                        <string-name>
+                            <surname>Compton</surname>
+                            <given-names>D.</given-names>
+                        </string-name>
+                        ,
+                        <string-name>
+                            <surname>Coyne</surname>
+                            <given-names>M.</given-names>
+                        </string-name>
+                        ,
+                        <string-name>
+                            <surname>Greenwood</surname>
+                            <given-names>C.</given-names>
+                        </string-name>
+                        ,
+                        <string-name>
+                            <surname>Innocenti</surname>
+                            <given-names>M. S.</given-names>
+                        </string-name>
+                    </person-group>
+                    (<year>2005</year>). <article-title>Quality indicators for group experimental and quasi-experimental
+                    research in special education</article-title>. <source>Exceptional Children</source>, <volume>
+                    71</volume>, <fpage>149</fpage>–<lpage>164</lpage>.
+                </mixed-citation>
+            </ref>
+            <ref doi="bibr13-0198742916688653">
+                <mixed-citation publication-type="book">
+                    <person-group person-group-type="author">
+                        <string-name>
+                            <surname>Gough</surname>
+                            <given-names>D.</given-names>
+                        </string-name>
+                        ,
+                        <string-name>
+                            <surname>Oliver</surname>
+                            <given-names>S.</given-names>
+                        </string-name>
+                        ,
+                        <string-name>
+                            <surname>Thomas</surname>
+                            <given-names>J.</given-names>
+                        </string-name>
+                    </person-group>
+                    (<year>2013</year>). <source>Learning from research: Systematic reviews for informing policy
+                    decisions: A quick guide</source>. <publisher-loc>London, England</publisher-loc>: <publisher-name>
+                    Alliance for Useful Evidence</publisher-name>.
+                </mixed-citation>
+            </ref>
+            <ref doi="bibr14-0198742916688653">
+                <mixed-citation publication-type="book">
+                    <person-group person-group-type="editor">
+                        <string-name>
+                            <surname>Higgins</surname>
+                            <given-names>J. P.</given-names>
+                        </string-name>
+                        ,
+                        <string-name>
+                            <surname>Green</surname>
+                            <given-names>S.</given-names>
+                        </string-name>
+                    </person-group>
+                    (Eds.). (<year>2011</year>). <source>Cochrane handbook for systematic reviews of interventions
+                </source> (<volume>Vol. 5.1</volume>). <publisher-loc>Chichester, UK</publisher-loc>: <publisher-name>
+                    Wiley-Blackwell</publisher-name>.
+                </mixed-citation>
+            </ref>
+            <ref doi="bibr15-0198742916688653">
+                <mixed-citation publication-type="title">
+                    <person-group person-group-type="author">
+                        <string-name>
+                            <surname>Knowles</surname>
+                            <given-names>C.</given-names>
+                        </string-name>
+                        ,
+                        <string-name>
+                            <surname>Meng</surname>
+                            <given-names>P.</given-names>
+                        </string-name>
+                        ,
+                        <string-name>
+                            <surname>Machalicek</surname>
+                            <given-names>W.</given-names>
+                        </string-name>
+                    </person-group>
+                    (<year>2015</year>). <article-title>Task sequencing for students with emotional and behavioral
+                    disorders: A systematic review</article-title>. <source>Behavior Modification</source>, <volume>
+                    39</volume>, <fpage>136</fpage>–<lpage>166</lpage>.
+                </mixed-citation>
+            </ref>
+            <ref doi="bibr16-0198742916688653">
+                <mixed-citation publication-type="book">
+                    <person-group person-group-type="author">
+                        <string-name>
+                            <surname>Lipsey</surname>
+                            <given-names>M. W.</given-names>
+                        </string-name>
+                        ,
+                        <string-name>
+                            <surname>Wilson</surname>
+                            <given-names>D. B.</given-names>
+                        </string-name>
+                    </person-group>
+                    (<year>2001</year>). <source>Practical meta-analysis</source>. <publisher-loc>Thousand Oaks,
+                    CA</publisher-loc>: <publisher-name>SAGE</publisher-name>.
+                </mixed-citation>
+            </ref>
+            <ref doi="bibr17-0198742916688653">
+                <mixed-citation publication-type="title">
+                    <person-group person-group-type="author">
+                        <string-name>
+                            <surname>Maggin</surname>
+                            <given-names>D. M.</given-names>
+                        </string-name>
+                    </person-group>
+                    (<year>2015</year>). <article-title>Considering generality in the systematic review and
+                    meta-analysis of single-case research: A response to Hitchcock et al</article-title>. <source>
+                    Journal of Behavioral Education</source>, <volume>24</volume>, <fpage>470</fpage>–<lpage>482</lpage>.
+                </mixed-citation>
+            </ref>
+            <ref doi="bibr18-0198742916688653">
+                <mixed-citation publication-type="title">
+                    <person-group person-group-type="author">
+                        <string-name>
+                            <surname>Maggin</surname>
+                            <given-names>D. M.</given-names>
+                        </string-name>
+                        ,
+                        <string-name>
+                            <surname>Chafouleas</surname>
+                            <given-names>S. M.</given-names>
+                        </string-name>
+                    </person-group>
+                    (<year>2013</year>). <article-title>Introduction to the special series issues and advances of
+                    synthesizing single-case research</article-title>. <source>Remedial and Special Education</source>, <volume>
+                    34</volume>, <fpage>3</fpage>–<lpage>8</lpage>.
+                </mixed-citation>
+            </ref>
+            <ref doi="bibr19-0198742916688653">
+                <mixed-citation publication-type="title">
+                    <person-group person-group-type="author">
+                        <string-name>
+                            <surname>Maggin</surname>
+                            <given-names>D. M.</given-names>
+                        </string-name>
+                        ,
+                        <string-name>
+                            <surname>Wehby</surname>
+                            <given-names>J. H.</given-names>
+                        </string-name>
+                        ,
+                        <string-name>
+                            <surname>Farmer</surname>
+                            <given-names>T. W.</given-names>
+                        </string-name>
+                        ,
+                        <string-name>
+                            <surname>Brooks</surname>
+                            <given-names>D. S.</given-names>
+                        </string-name>
+                    </person-group>
+                    (<year>2016</year>). <article-title>Intensive interventions for students with emotional and
+                    behavioral disorders: Issues, theory, and future Directions</article-title>. <source>Journal of
+                    Emotional and Behavioral Disorders</source>, <volume>24</volume>, <fpage>127</fpage>–<lpage>
+                    137</lpage>.
+                </mixed-citation>
+            </ref>
+            <ref doi="bibr20-0198742916688653">
+                <mixed-citation publication-type="title">
+                    <person-group person-group-type="author">
+                        <string-name>
+                            <surname>Maggin</surname>
+                            <given-names>D. M.</given-names>
+                        </string-name>
+                        ,
+                        <string-name>
+                            <surname>Zurheide</surname>
+                            <given-names>J.</given-names>
+                        </string-name>
+                        ,
+                        <string-name>
+                            <surname>Pickett</surname>
+                            <given-names>K. C.</given-names>
+                        </string-name>
+                        ,
+                        <string-name>
+                            <surname>Baillie</surname>
+                            <given-names>S. J.</given-names>
+                        </string-name>
+                    </person-group>
+                    (<year>2015</year>). <article-title>A systematic evidence review of the check-in/check-out program
+                    for reducing student challenging behaviors</article-title>. <source>Journal of Positive Behavior
+                    Interventions</source>, <volume>17</volume>, <fpage>197</fpage>–<lpage>208</lpage>.
+                </mixed-citation>
+            </ref>
+            <ref doi="bibr21-0198742916688653">
+                <mixed-citation publication-type="title">
+                    <person-group person-group-type="author">
+                        <string-name>
+                            <surname>Maggin</surname>
+                            <given-names>D. M.</given-names>
+                        </string-name>
+                        ,
+                        <string-name>
+                            <surname>Johnson</surname>
+                            <given-names>A. H.</given-names>
+                        </string-name>
+                        ,
+                        <string-name>
+                            <surname>Chafouleas</surname>
+                            <given-names>S. M.</given-names>
+                        </string-name>
+                        ,
+                        <string-name>
+                            <surname>Ruberto</surname>
+                            <given-names>L. M.</given-names>
+                        </string-name>
+                        ,
+                        <string-name>
+                            <surname>Berggren</surname>
+                            <given-names>M.</given-names>
+                        </string-name>
+                    </person-group>
+                    (<year>2012</year>). <article-title>A systematic evidence review of school-based group contingency
+                    interventions for students with challenging behavior</article-title>. <source>Journal of School
+                    Psychology</source>, <volume>50</volume>, <fpage>625</fpage>–<lpage>654</lpage>.
+                </mixed-citation>
+            </ref>
+            <ref doi="bibr22-0198742916688653">
+                <mixed-citation publication-type="title">
+                    <person-group person-group-type="author">
+                        <string-name>
+                            <surname>Moher</surname>
+                            <given-names>D.</given-names>
+                        </string-name>
+                        ,
+                        <string-name>
+                            <surname>Shamseer</surname>
+                            <given-names>L.</given-names>
+                        </string-name>
+                        ,
+                        <string-name>
+                            <surname>Clarke</surname>
+                            <given-names>M.</given-names>
+                        </string-name>
+                        ,
+                        <string-name>
+                            <surname>Ghersi</surname>
+                            <given-names>D.</given-names>
+                        </string-name>
+                        ,
+                        <string-name>
+                            <surname>Liberati</surname>
+                            <given-names>A.</given-names>
+                        </string-name>
+                        ,
+                        <string-name>
+                            <surname>Petticrew</surname>
+                            <given-names>M.</given-names>
+                        </string-name>
+                        ,
+                        <string-name>
+                            <surname>Stewart</surname>
+                            <given-names>L. A.</given-names>
+                        </string-name>
+                    </person-group>
+                    (<year>2015</year>). <article-title>Preferred reporting items for systematic review and
+                    meta-analysis protocols (PRISMA-P) 2015 statement</article-title>. <source>Systematic
+                    Reviews</source>, <volume>4</volume>, Article 1.
+                </mixed-citation>
+            </ref>
+            <ref doi="bibr23-0198742916688653">
+                <mixed-citation publication-type="title">
+                    <person-group person-group-type="author">
+                        <string-name>
+                            <surname>Odom</surname>
+                            <given-names>S. L.</given-names>
+                        </string-name>
+                        ,
+                        <string-name>
+                            <surname>Brantlinger</surname>
+                            <given-names>E.</given-names>
+                        </string-name>
+                        ,
+                        <string-name>
+                            <surname>Gersten</surname>
+                            <given-names>R.</given-names>
+                        </string-name>
+                        ,
+                        <string-name>
+                            <surname>Horner</surname>
+                            <given-names>R. H.</given-names>
+                        </string-name>
+                        ,
+                        <string-name>
+                            <surname>Thompson</surname>
+                            <given-names>B.</given-names>
+                        </string-name>
+                        ,
+                        <string-name>
+                            <surname>Harris</surname>
+                            <given-names>K. R.</given-names>
+                        </string-name>
+                    </person-group>
+                    (<year>2005</year>). <article-title>Research in special education: Scientific methods and
+                    evidence-based practices</article-title>. <source>Exceptional Children</source>, <volume>71</volume>, <fpage>
+                    137</fpage>–<lpage>148</lpage>.
+                </mixed-citation>
+            </ref>
+            <ref doi="bibr24-0198742916688653">
+                <mixed-citation publication-type="book">
+                    <person-group person-group-type="editor">
+                        <string-name>
+                            <surname>Shavelson</surname>
+                            <given-names>R. J.</given-names>
+                        </string-name>
+                        ,
+                        <string-name>
+                            <surname>Towne</surname>
+                            <given-names>L.</given-names>
+                        </string-name>
+                    </person-group>
+                    (Eds.). (<year>2002</year>). <source>Scientific research in education</source>. <publisher-loc>
+                    Washington, DC</publisher-loc>: <publisher-name>National Academies Press</publisher-name>.
+                </mixed-citation>
+            </ref>
+            <ref doi="bibr25-0198742916688653">
+                <mixed-citation publication-type="title">
+                    <person-group person-group-type="author">
+                        <string-name>
+                            <surname>Talbott</surname>
+                            <given-names>E.</given-names>
+                        </string-name>
+                        ,
+                        <string-name>
+                            <surname>Maggin</surname>
+                            <given-names>D. M.</given-names>
+                        </string-name>
+                        ,
+                        <string-name>
+                            <surname>Van Acker</surname>
+                            <given-names>E. Y.</given-names>
+                        </string-name>
+                        ,
+                        <string-name>
+                            <surname>Kumm</surname>
+                            <given-names>S.</given-names>
+                        </string-name>
+                    </person-group>
+                    (in press). <article-title>Quality indicators for reviews of research in special
+                    education</article-title>. <source>Exceptionality</source>.
+                </mixed-citation>
+            </ref>
+            <ref doi="bibr26-0198742916688653">
+                <mixed-citation publication-type="title">
+                    <person-group person-group-type="author">
+                        <string-name>
+                            <surname>Travers</surname>
+                            <given-names>J. C.</given-names>
+                        </string-name>
+                        ,
+                        <string-name>
+                            <surname>Cook</surname>
+                            <given-names>B. G.</given-names>
+                        </string-name>
+                        ,
+                        <string-name>
+                            <surname>Therrien</surname>
+                            <given-names>W. J.</given-names>
+                        </string-name>
+                        ,
+                        <string-name>
+                            <surname>Coyne</surname>
+                            <given-names>M. C.</given-names>
+                        </string-name>
+                    </person-group>
+                    (<year>2016</year>). <article-title>Replication in research in special
+                    education</article-title>. <source>Remedial and Special Education</source>, <volume>
+                    27</volume>, <fpage>195</fpage>–<lpage>204</lpage>.
+                </mixed-citation>
+            </ref>
+            <ref doi="bibr27-0198742916688653">
+                <mixed-citation publication-type="book">
+                    <person-group person-group-type="author">
+                        <string-name>
+                            <surname>Valentine</surname>
+                            <given-names>J. C</given-names>
+                        </string-name>
+                    </person-group>
+                    . (<year>2009</year>). <article-title>Judging the quality of primary research</article-title>. In
+                    <person-group person-group-type="editor">
+                        <string-name>
+                            <surname>Cooper</surname>
+                            <given-names>H.</given-names>
+                        </string-name>
+                        ,
+                        <string-name>
+                            <surname>Hedges</surname>
+                            <given-names>L. V.</given-names>
+                        </string-name>
+                        ,
+                        <string-name>
+                            <surname>Valentine</surname>
+                            <given-names>J. C.</given-names>
+                        </string-name>
+                    </person-group>
+                    (Eds.), <source>The handbook of research synthesis and meta-analysis</source> (<edition>2nd
+                    ed.</edition>, pp. <fpage>129</fpage>–<lpage>146</lpage>). <publisher-loc>New York</publisher-loc>: <publisher-name>
+                    Russell Sage Foundation</publisher-name>.
+                </mixed-citation>
+            </ref>
+            <ref doi="bibr28-0198742916688653">
+                <mixed-citation publication-type="gov">
+                    <collab>What Works Clearinghouse</collab>. (<year>2013</year>). <source>Procedures and standards
+                    handbook
+                </source> (Version 3.0). Retrieved from
+                    <ext-link ext-link-type="uri"
+                              href="https://ies.ed.gov/ncee/wwc/Docs/referenceresources/wwc_procedures_v3_0_standards_handbook.pdf">
+                        https://ies.ed.gov/ncee/wwc/Docs/referenceresources/wwc_procedures_v3_0_standards_handbook.pdf
+                    </ext-link>
+                </mixed-citation>
+            </ref>
+        </ref-list>
+    </back>
+</article>

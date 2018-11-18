@@ -1,0 +1,18 @@
+<web-app xmlns="http://xmlns.jcp.org/xml/ns/javaee"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://xmlns.jcp.org/xml/ns/javaee
+                             http://xmlns.jcp.org/xml/ns/javaee/web-app_3_1.xsd" version="3.1">
+
+    <context-param>
+        <param-name>submissionsQueueSize</param-name>
+        <param-value>50</param-value>
+    </context-param>
+    <context-param>
+        <param-name>outputPath</param-name>
+        <param-value>/home/nasserahmed36/IdeaProjects/Literatum/content</param-value>
+    </context-param>
+    <context-param>
+        <param-name>datasourceEnv</param-name>
+        <param-value>jdbc/mysql</param-value>
+    </context-param>
+</web-app>

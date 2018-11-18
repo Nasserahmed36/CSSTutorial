@@ -1,0 +1,1045 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="access-control:war" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f6fd00d7-ea79-4df5-a141-84aea25d7f10" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebaAminTool/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../WebaAminTool/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebaAminTool/src/main/java/com/atypon/domain/Article.java" beforeDir="false" afterPath="$PROJECT_DIR$/../WebaAminTool/src/main/java/com/atypon/domain/Article.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebaAminTool/src/main/java/com/atypon/domain/Issue.java" beforeDir="false" afterPath="$PROJECT_DIR$/../WebaAminTool/src/main/java/com/atypon/domain/Issue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebaAminTool/src/main/java/com/atypon/domain/Journal.java" beforeDir="false" afterPath="$PROJECT_DIR$/../WebaAminTool/src/main/java/com/atypon/domain/Journal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebaAminTool/src/main/java/com/atypon/web/controller/IdentityController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../WebaAminTool/src/main/java/com/atypon/web/controller/IdentityController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebaAminTool/src/main/java/com/atypon/web/servlet/DispatcherServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/../WebaAminTool/src/main/java/com/atypon/web/servlet/DispatcherServlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebaAminTool/src/main/resources/xsl/articles-to-rss1.xsl" beforeDir="false" afterPath="$PROJECT_DIR$/../WebaAminTool/src/main/resources/xsl/articles-to-rss1.xsl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebaAminTool/src/main/resources/xsl/jats-to-bibtex.xsl" beforeDir="false" afterPath="$PROJECT_DIR$/../WebaAminTool/src/main/resources/xsl/jats-to-bibtex.xsl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebaAminTool/src/main/resources/xsl/jats-to-correction.xsl" beforeDir="false" afterPath="$PROJECT_DIR$/../WebaAminTool/src/main/resources/xsl/jats-to-correction.xsl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebaAminTool/src/main/resources/xsl/jats-to-datacite.xsl" beforeDir="false" afterPath="$PROJECT_DIR$/../WebaAminTool/src/main/resources/xsl/jats-to-datacite.xsl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebaAminTool/src/main/resources/xsl/jats-to-doaj.xsl" beforeDir="false" afterPath="$PROJECT_DIR$/../WebaAminTool/src/main/resources/xsl/jats-to-doaj.xsl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebaAminTool/src/main/resources/xsl/jats-to-html.xsl" beforeDir="false" afterPath="$PROJECT_DIR$/../WebaAminTool/src/main/resources/xsl/jats-to-html.xsl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebaAminTool/src/main/resources/xsl/jats-to-html/citation.xsl" beforeDir="false" afterPath="$PROJECT_DIR$/../WebaAminTool/src/main/resources/xsl/jats-to-html/citation.xsl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebaAminTool/src/main/resources/xsl/jats-to-html/meta.xsl" beforeDir="false" afterPath="$PROJECT_DIR$/../WebaAminTool/src/main/resources/xsl/jats-to-html/meta.xsl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebaAminTool/src/main/resources/xsl/jats-to-html/self-citation.xsl" beforeDir="false" afterPath="$PROJECT_DIR$/../WebaAminTool/src/main/resources/xsl/jats-to-html/self-citation.xsl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebaAminTool/src/main/resources/xsl/jats-to-pubmed.xsl" beforeDir="false" afterPath="$PROJECT_DIR$/../WebaAminTool/src/main/resources/xsl/jats-to-pubmed.xsl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebaAminTool/src/main/resources/xsl/jats-to-rdf.xsl" beforeDir="false" afterPath="$PROJECT_DIR$/../WebaAminTool/src/main/resources/xsl/jats-to-rdf.xsl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebaAminTool/src/main/resources/xsl/jats-to-retraction.xsl" beforeDir="false" afterPath="$PROJECT_DIR$/../WebaAminTool/src/main/resources/xsl/jats-to-retraction.xsl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebaAminTool/src/main/resources/xsl/jats-to-ris.xsl" beforeDir="false" afterPath="$PROJECT_DIR$/../WebaAminTool/src/main/resources/xsl/jats-to-ris.xsl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebaAminTool/src/main/resources/xsl/jats-to-unixref-minimal.xsl" beforeDir="false" afterPath="$PROJECT_DIR$/../WebaAminTool/src/main/resources/xsl/jats-to-unixref-minimal.xsl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebaAminTool/src/main/resources/xsl/jats-to-unixref-posted-content-preprint.xsl" beforeDir="false" afterPath="$PROJECT_DIR$/../WebaAminTool/src/main/resources/xsl/jats-to-unixref-posted-content-preprint.xsl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebaAminTool/src/main/resources/xsl/jats-to-unixref.xsl" beforeDir="false" afterPath="$PROJECT_DIR$/../WebaAminTool/src/main/resources/xsl/jats-to-unixref.xsl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebaAminTool/src/main/webapp/0198742916688653.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../WebaAminTool/src/main/webapp/0198742916688653.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebaAminTool/src/main/webapp/admin/backstage.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../WebaAminTool/src/main/webapp/admin/backstage.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebaAminTool/src/main/webapp/admin/identities.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../WebaAminTool/src/main/webapp/admin/identities.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebaAminTool/src/main/webapp/admin/leftBar.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../WebaAminTool/src/main/webapp/admin/leftBar.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebaAminTool/src/main/webapp/admin/submissions.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../WebaAminTool/src/main/webapp/admin/submissions.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebaAminTool/src/main/webapp/admin/userProfile.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../WebaAminTool/src/main/webapp/admin/userProfile.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebaAminTool/target/classes/com/atypon/backstage/MainProcessor.class" beforeDir="false" afterPath="$PROJECT_DIR$/../WebaAminTool/target/classes/com/atypon/backstage/MainProcessor.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebaAminTool/target/classes/com/atypon/web/controller/IdentityController.class" beforeDir="false" afterPath="$PROJECT_DIR$/../WebaAminTool/target/classes/com/atypon/web/controller/IdentityController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebaAminTool/target/classes/com/atypon/web/servlet/DispatcherServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/../WebaAminTool/target/classes/com/atypon/web/servlet/DispatcherServlet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebaAminTool/target/classes/xsl/articles-to-atom.xsl" beforeDir="false" afterPath="$PROJECT_DIR$/../WebaAminTool/target/classes/xsl/articles-to-atom.xsl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebaAminTool/target/classes/xsl/articles-to-rss1.xsl" beforeDir="false" afterPath="$PROJECT_DIR$/../WebaAminTool/target/classes/xsl/articles-to-rss1.xsl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebaAminTool/target/classes/xsl/articles-to-rss3.xsl" beforeDir="false" afterPath="$PROJECT_DIR$/../WebaAminTool/target/classes/xsl/articles-to-rss3.xsl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebaAminTool/target/classes/xsl/html-to-jats.xsl" beforeDir="false" afterPath="$PROJECT_DIR$/../WebaAminTool/target/classes/xsl/html-to-jats.xsl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebaAminTool/target/classes/xsl/jats-to-bibtex.xsl" beforeDir="false" afterPath="$PROJECT_DIR$/../WebaAminTool/target/classes/xsl/jats-to-bibtex.xsl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebaAminTool/target/classes/xsl/jats-to-correction.xsl" beforeDir="false" afterPath="$PROJECT_DIR$/../WebaAminTool/target/classes/xsl/jats-to-correction.xsl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebaAminTool/target/classes/xsl/jats-to-datacite.xsl" beforeDir="false" afterPath="$PROJECT_DIR$/../WebaAminTool/target/classes/xsl/jats-to-datacite.xsl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebaAminTool/target/classes/xsl/jats-to-doaj.xsl" beforeDir="false" afterPath="$PROJECT_DIR$/../WebaAminTool/target/classes/xsl/jats-to-doaj.xsl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebaAminTool/target/classes/xsl/jats-to-html.xsl" beforeDir="false" afterPath="$PROJECT_DIR$/../WebaAminTool/target/classes/xsl/jats-to-html.xsl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebaAminTool/target/classes/xsl/jats-to-html/citation.xsl" beforeDir="false" afterPath="$PROJECT_DIR$/../WebaAminTool/target/classes/xsl/jats-to-html/citation.xsl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebaAminTool/target/classes/xsl/jats-to-html/front.xsl" beforeDir="false" afterPath="$PROJECT_DIR$/../WebaAminTool/target/classes/xsl/jats-to-html/front.xsl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebaAminTool/target/classes/xsl/jats-to-html/meta.xsl" beforeDir="false" afterPath="$PROJECT_DIR$/../WebaAminTool/target/classes/xsl/jats-to-html/meta.xsl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebaAminTool/target/classes/xsl/jats-to-html/self-citation.xsl" beforeDir="false" afterPath="$PROJECT_DIR$/../WebaAminTool/target/classes/xsl/jats-to-html/self-citation.xsl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebaAminTool/target/classes/xsl/jats-to-pubmed.xsl" beforeDir="false" afterPath="$PROJECT_DIR$/../WebaAminTool/target/classes/xsl/jats-to-pubmed.xsl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebaAminTool/target/classes/xsl/jats-to-rdf.xsl" beforeDir="false" afterPath="$PROJECT_DIR$/../WebaAminTool/target/classes/xsl/jats-to-rdf.xsl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebaAminTool/target/classes/xsl/jats-to-retraction.xsl" beforeDir="false" afterPath="$PROJECT_DIR$/../WebaAminTool/target/classes/xsl/jats-to-retraction.xsl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebaAminTool/target/classes/xsl/jats-to-ris.xsl" beforeDir="false" afterPath="$PROJECT_DIR$/../WebaAminTool/target/classes/xsl/jats-to-ris.xsl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebaAminTool/target/classes/xsl/jats-to-unixref-minimal.xsl" beforeDir="false" afterPath="$PROJECT_DIR$/../WebaAminTool/target/classes/xsl/jats-to-unixref-minimal.xsl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebaAminTool/target/classes/xsl/jats-to-unixref-posted-content-database.xsl" beforeDir="false" afterPath="$PROJECT_DIR$/../WebaAminTool/target/classes/xsl/jats-to-unixref-posted-content-database.xsl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebaAminTool/target/classes/xsl/jats-to-unixref-posted-content-preprint.xsl" beforeDir="false" afterPath="$PROJECT_DIR$/../WebaAminTool/target/classes/xsl/jats-to-unixref-posted-content-preprint.xsl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebaAminTool/target/classes/xsl/jats-to-unixref.xsl" beforeDir="false" afterPath="$PROJECT_DIR$/../WebaAminTool/target/classes/xsl/jats-to-unixref.xsl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebaAminTool/target/web-admin-tool/0198742916688653.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../WebaAminTool/target/web-admin-tool/0198742916688653.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebaAminTool/target/web-admin-tool/META-INF/MANIFEST.MF" beforeDir="false" afterPath="$PROJECT_DIR$/../WebaAminTool/target/web-admin-tool/META-INF/MANIFEST.MF" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebaAminTool/target/web-admin-tool/WEB-INF/classes/com/atypon/backstage/MainProcessor.class" beforeDir="false" afterPath="$PROJECT_DIR$/../WebaAminTool/target/web-admin-tool/WEB-INF/classes/com/atypon/backstage/MainProcessor.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebaAminTool/target/web-admin-tool/WEB-INF/classes/xsl/articles-to-atom.xsl" beforeDir="false" afterPath="$PROJECT_DIR$/../WebaAminTool/target/web-admin-tool/WEB-INF/classes/xsl/articles-to-atom.xsl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebaAminTool/target/web-admin-tool/WEB-INF/classes/xsl/articles-to-rss1.xsl" beforeDir="false" afterPath="$PROJECT_DIR$/../WebaAminTool/target/web-admin-tool/WEB-INF/classes/xsl/articles-to-rss1.xsl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebaAminTool/target/web-admin-tool/WEB-INF/classes/xsl/articles-to-rss3.xsl" beforeDir="false" afterPath="$PROJECT_DIR$/../WebaAminTool/target/web-admin-tool/WEB-INF/classes/xsl/articles-to-rss3.xsl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebaAminTool/target/web-admin-tool/WEB-INF/classes/xsl/html-to-jats.xsl" beforeDir="false" afterPath="$PROJECT_DIR$/../WebaAminTool/target/web-admin-tool/WEB-INF/classes/xsl/html-to-jats.xsl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebaAminTool/target/web-admin-tool/WEB-INF/classes/xsl/jats-to-bibtex.xsl" beforeDir="false" afterPath="$PROJECT_DIR$/../WebaAminTool/target/web-admin-tool/WEB-INF/classes/xsl/jats-to-bibtex.xsl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebaAminTool/target/web-admin-tool/WEB-INF/classes/xsl/jats-to-correction.xsl" beforeDir="false" afterPath="$PROJECT_DIR$/../WebaAminTool/target/web-admin-tool/WEB-INF/classes/xsl/jats-to-correction.xsl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebaAminTool/target/web-admin-tool/WEB-INF/classes/xsl/jats-to-datacite.xsl" beforeDir="false" afterPath="$PROJECT_DIR$/../WebaAminTool/target/web-admin-tool/WEB-INF/classes/xsl/jats-to-datacite.xsl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebaAminTool/target/web-admin-tool/WEB-INF/classes/xsl/jats-to-doaj.xsl" beforeDir="false" afterPath="$PROJECT_DIR$/../WebaAminTool/target/web-admin-tool/WEB-INF/classes/xsl/jats-to-doaj.xsl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebaAminTool/target/web-admin-tool/WEB-INF/classes/xsl/jats-to-html.xsl" beforeDir="false" afterPath="$PROJECT_DIR$/../WebaAminTool/target/web-admin-tool/WEB-INF/classes/xsl/jats-to-html.xsl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebaAminTool/target/web-admin-tool/WEB-INF/classes/xsl/jats-to-html/citation.xsl" beforeDir="false" afterPath="$PROJECT_DIR$/../WebaAminTool/target/web-admin-tool/WEB-INF/classes/xsl/jats-to-html/citation.xsl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebaAminTool/target/web-admin-tool/WEB-INF/classes/xsl/jats-to-html/front.xsl" beforeDir="false" afterPath="$PROJECT_DIR$/../WebaAminTool/target/web-admin-tool/WEB-INF/classes/xsl/jats-to-html/front.xsl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebaAminTool/target/web-admin-tool/WEB-INF/classes/xsl/jats-to-html/meta.xsl" beforeDir="false" afterPath="$PROJECT_DIR$/../WebaAminTool/target/web-admin-tool/WEB-INF/classes/xsl/jats-to-html/meta.xsl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebaAminTool/target/web-admin-tool/WEB-INF/classes/xsl/jats-to-html/self-citation.xsl" beforeDir="false" afterPath="$PROJECT_DIR$/../WebaAminTool/target/web-admin-tool/WEB-INF/classes/xsl/jats-to-html/self-citation.xsl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebaAminTool/target/web-admin-tool/WEB-INF/classes/xsl/jats-to-pubmed.xsl" beforeDir="false" afterPath="$PROJECT_DIR$/../WebaAminTool/target/web-admin-tool/WEB-INF/classes/xsl/jats-to-pubmed.xsl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebaAminTool/target/web-admin-tool/WEB-INF/classes/xsl/jats-to-rdf.xsl" beforeDir="false" afterPath="$PROJECT_DIR$/../WebaAminTool/target/web-admin-tool/WEB-INF/classes/xsl/jats-to-rdf.xsl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebaAminTool/target/web-admin-tool/WEB-INF/classes/xsl/jats-to-retraction.xsl" beforeDir="false" afterPath="$PROJECT_DIR$/../WebaAminTool/target/web-admin-tool/WEB-INF/classes/xsl/jats-to-retraction.xsl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebaAminTool/target/web-admin-tool/WEB-INF/classes/xsl/jats-to-ris.xsl" beforeDir="false" afterPath="$PROJECT_DIR$/../WebaAminTool/target/web-admin-tool/WEB-INF/classes/xsl/jats-to-ris.xsl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebaAminTool/target/web-admin-tool/WEB-INF/classes/xsl/jats-to-unixref-minimal.xsl" beforeDir="false" afterPath="$PROJECT_DIR$/../WebaAminTool/target/web-admin-tool/WEB-INF/classes/xsl/jats-to-unixref-minimal.xsl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebaAminTool/target/web-admin-tool/WEB-INF/classes/xsl/jats-to-unixref-posted-content-database.xsl" beforeDir="false" afterPath="$PROJECT_DIR$/../WebaAminTool/target/web-admin-tool/WEB-INF/classes/xsl/jats-to-unixref-posted-content-database.xsl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebaAminTool/target/web-admin-tool/WEB-INF/classes/xsl/jats-to-unixref-posted-content-preprint.xsl" beforeDir="false" afterPath="$PROJECT_DIR$/../WebaAminTool/target/web-admin-tool/WEB-INF/classes/xsl/jats-to-unixref-posted-content-preprint.xsl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebaAminTool/target/web-admin-tool/WEB-INF/classes/xsl/jats-to-unixref.xsl" beforeDir="false" afterPath="$PROJECT_DIR$/../WebaAminTool/target/web-admin-tool/WEB-INF/classes/xsl/jats-to-unixref.xsl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebaAminTool/target/web-admin-tool/admin/assets/fonts/Pe-icon-7-stroke.svg" beforeDir="false" afterPath="$PROJECT_DIR$/../WebaAminTool/target/web-admin-tool/admin/assets/fonts/Pe-icon-7-stroke.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebaAminTool/target/web-admin-tool/admin/backstage.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../WebaAminTool/target/web-admin-tool/admin/backstage.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebaAminTool/target/web-admin-tool/admin/icons.html" beforeDir="false" afterPath="$PROJECT_DIR$/../WebaAminTool/target/web-admin-tool/admin/icons.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebaAminTool/target/web-admin-tool/admin/identities.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../WebaAminTool/target/web-admin-tool/admin/identities.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebaAminTool/target/web-admin-tool/admin/leftBar.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../WebaAminTool/target/web-admin-tool/admin/leftBar.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebaAminTool/target/web-admin-tool/admin/licences.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../WebaAminTool/target/web-admin-tool/admin/licences.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebaAminTool/target/web-admin-tool/admin/maps.html" beforeDir="false" afterPath="$PROJECT_DIR$/../WebaAminTool/target/web-admin-tool/admin/maps.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebaAminTool/target/web-admin-tool/admin/submissions.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../WebaAminTool/target/web-admin-tool/admin/submissions.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebaAminTool/target/web-admin-tool/admin/userProfile.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../WebaAminTool/target/web-admin-tool/admin/userProfile.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mysqlData/AdminTool/identity.ibd" beforeDir="false" afterPath="$PROJECT_DIR$/../mysqlData/AdminTool/identity.ibd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mysqlData/binlog.index" beforeDir="false" afterPath="$PROJECT_DIR$/../mysqlData/binlog.index" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mysqlData/ib_logfile0" beforeDir="false" afterPath="$PROJECT_DIR$/../mysqlData/ib_logfile0" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mysqlData/ibdata1" beforeDir="false" afterPath="$PROJECT_DIR$/../mysqlData/ibdata1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mysqlData/mysql.ibd" beforeDir="false" afterPath="$PROJECT_DIR$/../mysqlData/mysql.ibd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mysqlData/undo_001" beforeDir="false" afterPath="$PROJECT_DIR$/../mysqlData/undo_001" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mysqlData/undo_002" beforeDir="false" afterPath="$PROJECT_DIR$/../mysqlData/undo_002" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="180726518">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="3" />
+          <entry key="project.open.time.17" value="1" />
+          <entry key="project.open.time.2" value="2" />
+          <entry key="project.open.time.25" value="1" />
+          <entry key="project.open.time.26" value="1" />
+          <entry key="project.open.time.31" value="1" />
+          <entry key="project.open.time.4" value="1" />
+          <entry key="project.open.time.8" value="1" />
+          <entry key="project.opened" value="8" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="java" value="23" />
+          <entry key="js" value="1" />
+          <entry key="properties" value="1" />
+          <entry key="sql" value="1" />
+          <entry key="xml" value="6" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JAVA" value="23" />
+          <entry key="JavaScript" value="1" />
+          <entry key="Properties" value="1" />
+          <entry key="Scratch" value="1" />
+          <entry key="XML" value="6" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="cell" value="112" />
+          <entry key="java" value="1076" />
+          <entry key="properties" value="11" />
+          <entry key="sql" value="51" />
+          <entry key="txt" value="13" />
+          <entry key="xml" value="11" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="1076" />
+          <entry key="PLAIN_TEXT" value="13" />
+          <entry key="Properties" value="11" />
+          <entry key="Scratch" value="163" />
+          <entry key="XML" value="11" />
+        </counts>
+      </usages-collector>
+    </session>
+    <session id="1307070164">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="4" />
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.10" value="1" />
+          <entry key="project.open.time.11" value="1" />
+          <entry key="project.open.time.5" value="1" />
+          <entry key="project.opened" value="5" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="iml" value="1" />
+          <entry key="java" value="12" />
+          <entry key="jsp" value="1" />
+          <entry key="sql" value="1" />
+          <entry key="xml" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="IDEA_MODULE" value="1" />
+          <entry key="JAVA" value="12" />
+          <entry key="JSP" value="1" />
+          <entry key="Scratch" value="1" />
+          <entry key="XML" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="207" />
+          <entry key="sql" value="3" />
+          <entry key="xml" value="4" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="207" />
+          <entry key="Scratch" value="3" />
+          <entry key="XML" value="4" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/atypon/controller/AccessControlController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="388">
+              <caret line="57" column="69" selection-start-line="57" selection-start-column="69" selection-end-line="57" selection-end-column="69" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/atypon/service/LicenceServiceImpl.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="901">
+              <caret line="68" column="51" selection-start-line="68" selection-start-column="51" selection-end-line="68" selection-end-column="51" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/atypon/domain/ContentLicence.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="7" column="16" selection-start-line="7" selection-start-column="12" selection-end-line="7" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/atypon/domain/Licence.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2278">
+              <caret line="134" selection-start-line="134" selection-end-line="134" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/atypon/domain/Identity.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="51">
+              <caret line="3" selection-start-line="3" selection-end-line="3" />
+              <folding>
+                <element signature="e#1008#1009#0" expanded="true" />
+                <element signature="e#1035#1036#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/atypon/domain/LicenceType.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="5" column="12" selection-start-line="5" selection-start-column="12" selection-end-line="5" selection-end-column="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/atypon/domain/UserLicence.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="5" column="26" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/atypon/validator/IdentityValidator.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="476">
+              <caret line="33" selection-start-line="33" selection-end-line="33" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/atypon/validator/LicenceValidator.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>mysql</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/java/atypon/service/IdentityServiceImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" />
+        <option value="$APPLICATION_CONFIG_DIR$/consoles/db/8204592d-32b2-4f90-bff5-24be68ec65fb/console.sql" />
+        <option value="$PROJECT_DIR$/src/main/java/com/atypon/domain/Identity.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/atypon/validator/IdentityValidator.java" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/resources/messages.properties" />
+        <option value="$PROJECT_DIR$/src/main/java/com/atypon/domain/dao/IdentityDao.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/atypon/service/IdentityService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/atypon/service/IdentityServiceImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/atypon/domain/dao/IdentityDaoImpl.java" />
+        <option value="$APPLICATION_CONFIG_DIR$/scratches/scratch.sql" />
+        <option value="$PROJECT_DIR$/src/main/java/com/atypon/controller/AccessControlController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/atypon/filter/AuthenticationFilter.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Test.java" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/context.xml" />
+        <option value="$PROJECT_DIR$/../WebaAminTool/src/main/webapp/META-INF/context.xml" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="67" />
+    <option name="y" value="114" />
+    <option name="width" value="1007" />
+    <option name="height" value="789" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="AccessControl" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AccessControl" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AccessControl" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AccessControl" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AccessControl" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AccessControl" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AccessControl" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AccessControl" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AccessControl" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AccessControl" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="atypon" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AccessControl" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AccessControl" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="atypon" type="462c0819:PsiDirectoryNode" />
+              <item name="backstage" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AccessControl" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AccessControl" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="atypon" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AccessControl" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AccessControl" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="atypon" type="462c0819:PsiDirectoryNode" />
+              <item name="domain" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AccessControl" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AccessControl" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="atypon" type="462c0819:PsiDirectoryNode" />
+              <item name="form" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AccessControl" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AccessControl" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="atypon" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AccessControl" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AccessControl" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="atypon" type="462c0819:PsiDirectoryNode" />
+              <item name="validator" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AccessControl" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AccessControl" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AccessControl" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AccessControl" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AccessControl" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AccessControl" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AccessControl" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Scratches and Consoles" type="1a2a3e82:ScratchProjectViewPane$MyProjectNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="GenerateAntBuildDialog.backupFiles" value="true" />
+    <property name="GenerateAntBuildDialog.enableUiFormCompile" value="true" />
+    <property name="GenerateAntBuildDialog.forceTargetJdk" value="true" />
+    <property name="GenerateAntBuildDialog.outputFileNameProperty" value="accesscontrol" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1542188192486" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/Edit As Language" value="GenericSQL" />
+    <property name="database.console.LAST_STATE" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="database.main" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/webapp" />
+      <recent name="$PROJECT_DIR$/src/main/webapp/WEB-INF" />
+      <recent name="$PROJECT_DIR$/src/main/java" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Test">
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Test" />
+      <module name="AccessControl" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Tomcat" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 7.0.91" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="UPDATING_POLICY" value="redeploy-artifacts" />
+      <deployment>
+        <artifact name="access-control:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/AccessControl" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_AccessControl" />
+      </server-settings>
+      <predefined_log_file id="Tomcat" enabled="true" />
+      <predefined_log_file id="Tomcat Catalina" enabled="true" />
+      <predefined_log_file id="Tomcat Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Host Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Localhost Access" enabled="false" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="35127" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="access-control:war exploded" />
+        </option>
+      </method>
+    </configuration>
+    <configuration default="true" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 7.0.91" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment />
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="_AccessControl" />
+      </server-settings>
+      <predefined_log_file id="Tomcat" enabled="true" />
+      <predefined_log_file id="Tomcat Catalina" enabled="true" />
+      <predefined_log_file id="Tomcat Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Host Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Localhost Access" enabled="false" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="35127" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Tomcat Server.Tomcat" />
+      <item itemvalue="Application.Test" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f6fd00d7-ea79-4df5-a141-84aea25d7f10" name="Default Changelist" comment="" />
+      <created>1541438152396</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1541438152396</updated>
+      <workItem from="1541438157244" duration="612000" />
+      <workItem from="1541438939369" duration="8179000" />
+      <workItem from="1541448658845" duration="3984000" />
+      <workItem from="1541493443935" duration="12310000" />
+      <workItem from="1541670377565" duration="95000" />
+      <workItem from="1541670491758" duration="2484000" />
+      <workItem from="1541795472434" duration="3061000" />
+      <workItem from="1541839409922" duration="3328000" />
+      <workItem from="1541963206690" duration="1247000" />
+      <workItem from="1542006272400" duration="601000" />
+      <workItem from="1542052029189" duration="3097000" />
+      <workItem from="1542188507788" duration="2078000" />
+      <workItem from="1542190901187" duration="2797000" />
+      <workItem from="1542222414344" duration="878000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="56287000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="67" y="25" width="1853" height="1055" extended-state="7" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49910232" visible="true" weight="0.20475927" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Favorites" order="5" side_tool="true" />
+      <window_info id="Capture Tool" order="6" />
+      <window_info id="Web" order="7" sideWeight="0.50089765" side_tool="true" weight="0.25235197" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3308026" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39808613" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.3291866" />
+      <window_info anchor="bottom" id="Application Servers" order="7" weight="0.32822967" />
+      <window_info anchor="bottom" id="Spring" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.32901832" />
+      <window_info anchor="bottom" id="Java Enterprise" order="12" />
+      <window_info anchor="bottom" id="Database Changes" order="13" weight="0.32901832" />
+      <window_info anchor="bottom" id="Version Control" order="14" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Console" order="15" weight="0.32756758" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Maven Projects" order="5" />
+      <window_info anchor="right" id="Database" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+      <window_info anchor="right" x="0" y="0" width="413" height="855" id="Documentation" order="9" side_tool="true" weight="0.32982844" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/atypon/domain/dao/LicenceDaoImpl.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/atypon/backstage/JatsToHtmlTransformer.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/8204592d-32b2-4f90-bff5-24be68ec65fb/console.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="17" selection-start-column="17" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/admin/assets/js/demo.js" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/atypon/domain/dao/IdentityDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="9" column="14" selection-start-line="9" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/atypon/service/LicenceService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="9" column="29" selection-start-line="9" selection-start-column="12" selection-end-line="9" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.sql" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/Test.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/atypon/service/IdentityServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="29" selection-start-line="29" selection-end-line="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="21" selection-start-line="16" selection-start-column="21" selection-end-line="16" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/config/springmvc-config.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/atypon/filter/AuthenticationFilter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="26" column="51" selection-start-line="26" selection-start-column="51" selection-end-line="26" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/index.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/atypon/service/IdentityService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/resources/messages.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../WebaAminTool/src/main/webapp/META-INF/context.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="10" lean-forward="true" selection-start-line="14" selection-start-column="10" selection-end-line="14" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/atypon/domain/dao/IdentityDaoImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="38" column="5" selection-start-line="38" selection-start-column="5" selection-end-line="38" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/atypon/domain/ArticleMetadata.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/access-control.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/atypon/controller/AccessControlController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="388">
+          <caret line="57" column="69" selection-start-line="57" selection-start-column="69" selection-end-line="57" selection-end-column="69" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/atypon/service/LicenceServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="901">
+          <caret line="68" column="51" selection-start-line="68" selection-start-column="51" selection-end-line="68" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/atypon/domain/ContentLicence.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="16" selection-start-line="7" selection-start-column="12" selection-end-line="7" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/atypon/domain/Licence.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2278">
+          <caret line="134" selection-start-line="134" selection-end-line="134" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/atypon/domain/Identity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+          <folding>
+            <element signature="e#1008#1009#0" expanded="true" />
+            <element signature="e#1035#1036#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/atypon/domain/LicenceType.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="5" column="12" selection-start-line="5" selection-start-column="12" selection-end-line="5" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/atypon/domain/UserLicence.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="26" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/atypon/validator/IdentityValidator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="33" selection-start-line="33" selection-end-line="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/atypon/validator/LicenceValidator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>AccessControl:war exploded</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Spring</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>AccessControl</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: aopalliance:aopalliance:1.0</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
